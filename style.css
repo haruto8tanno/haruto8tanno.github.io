@@ -1,0 +1,46 @@
+﻿@charset "UTF-8";
+
+/* BODY */
+BODY { margin: 1px 1px 1px 1px; font-size: 13px; font-family: "ＭＳ ゴシック" }
+
+/* キーワード */
+.src_keyword           { color: blue; }
+
+/* 型キーワード */
+.src_typekeyword       { color: blue; }
+
+/* メタキーワード */
+.src_metakeyword       { color: #606060; }
+
+/* 数字リテラル */
+.src_digit             { color: #c00040; }
+
+/* 文字列リテラル */
+.src_doublequotation   { color: #c00040; }
+
+/* 文字リテラル */
+.src_singlequotation   { color: #c00040; }
+
+/* 演算子 */
+.src_operator          { color: #000000; }
+
+/* プリプロセッサ */
+.src_preprocessor      { color: red; font-weight: bold; }
+
+/* 単行コメント */
+.src_singlelinecomment { color: green; }
+
+/* 複数行コメント */
+.src_multilinecomment  { color: green; }
+
+/* ドキュメントコメント */
+.src_documentcomment   { color: green; }
+
+/* XML などの属性名 */
+.src_attributename     { color: #606000; }
+
+/* スクリプトレット */
+.src_scriptlet         { color: red; }
+
+/* その他 */
+.src_default           { color: #000000; }
