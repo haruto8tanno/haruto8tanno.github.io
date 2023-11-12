@@ -2,7 +2,7 @@
     <channel>
         <title>自己紹介</title>
         <link>https://haruto8tanno.github.io/</link>
-        <description>Haruto Tanno&#39;s page</description>
+        <description>This is my cool site</description>
         <generator>Hugo -- gohugo.io</generator><language>ja-jp</language>
             <atom:link href="https://haruto8tanno.github.io/index.xml" rel="self" type="application/rss+xml" />
         </channel>
