@@ -242,7 +242,7 @@ Sure, here are your citations in Markdown format:
 丹野 治門
 切貫 弘之
 但馬 将貴
-▲松▼本 真佑"
+まつ本 真佑"
 1. 	登録	テストデータ生成装置、テストデータ生成方法、及びプログラム	JP2021558103		JP7268759B	"安達 悠
 丹野 治門
 吉村 優
@@ -260,7 +260,7 @@ Sure, here are your citations in Markdown format:
 倉林  利行
 切貫  弘之
 肥後  芳樹
-▲松▼本  真佑
+まつ本  真佑
 楠本  真二"
 1.	登録	画面遷移集約装置、画面遷移集約方法及びプログラム	JP2021522595		JP7201080B	"倉林 利行
 丹野 治門
@@ -303,7 +303,7 @@ Sure, here are your citations in Markdown format:
 切貫  弘之
 肥後  芳樹
 楠本  真二
-▲松▼本  真佑"
+まつ本  真佑"
 1.	登録	画面判別装置、画面判別方法及びプログラム	JP2018098710	JP2019204265A	JP6792592B	"倉林  利行
 丹野  治門
 伊山  宗吉
