@@ -79,7 +79,7 @@
 
 ## 研究業績：
 **国際会議論文**
-1. Hiroyuki Kirinuki, Masaki Tajima, Haruto Tanno: "LatteArt: A Platform for Recording and Analyzing Exploratory Testing", 16th IEEE International Conference on Software Testing, Verification and Validation (ICST2023) [Testing Tools], to appear.
+1. Hiroyuki Kirinuki, Masaki Tajima, Haruto Tanno: "LatteArt: A Platform for Recording and Analyzing Exploratory Testing", 16th IEEE International Conference on Software Testing, Verification and Validation (ICST2023), [Testing Tools] ([paper](https://ieeexplore.ieee.org/abstract/document/10132294/references#references)).
 1. Riku Takaichi, Yoshiki Higo, Shinsuke Matsumoto, Shinji Kusumoto, Toshiyuki Kurabayashi, Hiroyuki Kirinuki, Haruto Tanno: "Are NLP Metrics Suitable for Evaluating Generated Code?", Product-Focused Software Process Improvement - 23rd International Conference (PROFES2022) [Poster] ([paper](https://link.springer.com/chapter/10.1007/978-3-031-21388-5_38)).
 1. Hiroto Watanabe, Shinsuke Matsumoto, Yoshiki Higo, Shinji Kusumoto, Toshiyuki Kurabayashi, Hiroyuki Kirinuki, Haruto Tanno: "Applying Multi-Objective Genetic Algorithm for Efficient Selection on Program Generation", 28th Asia-Pacific Software Engineering Conference (APSEC2021) [Early Research Achievement] (**Best ERA Paper**), December 2021 ([paper](https://ieeexplore.ieee.org/document/9712020)).
 1. Yu Adachi, Haruto Tanno, Yu Yoshimura: "A Method to Mask Dynamic Content Areas based on Positional Relationship of Screen Elements for Visual Regression Testing", The 12th IEEE International Workshop on Software Test Automation (STA 2020), July 2020 ([paper](https://ieeexplore.ieee.org/document/9202755)).
@@ -106,7 +106,7 @@
 
 **学術雑誌論文：**
 1. 渡辺 大登，柗本 真佑，肥後 芳樹，楠本 真二，倉林 利行，切貫 弘之，丹野 治門: "自動プログラム生成に対する多目的遺伝的アルゴリズムの導入　–相補的な個体選択を目的として–", 情報処理学会論文誌, Vol.63, No.10, pp.1564--1573, 2022年10月 ([paper](https://ipsj.ixsq.nii.ac.jp/ej/index.php?active_action=repository_view_main_item_detail&amp;page_id=13&amp;block_id=8&amp;item_id=220343&amp;item_no=1)).
-1. 倉林 利行, 丹野 治門, 切貫 弘之, 大島 剛志: "プログラム合成技術の動向調査", コンピュータソフトウェア, 2022, to appear.
+1. 倉林 利行, 丹野 治門, 切貫 弘之, 大島 剛志: "プログラム合成技術の動向調査", コンピュータソフトウェア, Vol. 40, No. 2, pp. 3_121-3_147, 2017. ([paper](https://www.jstage.jst.go.jp/article/jssst/40/2/40_2_95/_pdf/-char/ja))
 1. Hiroyuki Kirinuki, Haruto Tanno: "Automating End-to-Endo Web Testing bis Manual Testing", Journal of Information Processing, Vol. 63, No 4, 2022. (**JIP特選論文**).
 1. Haruto Tanno, Yu Adachi, Yu Yoshimura, Katsuyuki Natsukawa, Hideya Iwasaki: "Region-based Detection of Essential Differences in Image-based Visual Regression Testing", Journal of Information Processing, Vol. 28, pp. 268-278, 2020. ([paper](https://www.jstage.jst.go.jp/article/ipsjjip/28/0/28_268/_article/-char/en)).
 1. 肥後 芳樹, まつ本 真佑, 内藤 圭吾, 谷門 照斗, 楠本 真二, 切貫 弘之, 倉林 利行, 丹野 治門: "設定ファイルを考慮したFault Localizationの拡張", 情報処理学会論文誌:ソフトウェア工学特集, Vol. 61, No. 4, pp. 884-894, 2020. ([paper](https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&amp;active_action=repository_view_main_item_detail&amp;item_id=204333&amp;item_no=1)).
@@ -121,7 +121,7 @@
 
 **国内会議論文：**
 1. 川口 貴子, 倉林 利行, 丹野 治門: "機械学習システムのデータセット自動収集・整形技術", ソフトウェアエンジニアリングシンポジウム2023 論文集 pp. 119-127，2023年8月 [ショート発表論文] ([paper](https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=227289&item_no=1&page_id=13&block_id=8))
-1. 川口貴子, 倉林利行, 丹野治門: "機械学習システムのデータセット自動収集・整形技術", 電子情報通信学会技術研究報告,  vol. 122, no. 432, SS2022-57, pp. 61-66, 2023年3月. ([paper](https://ken.ieice.org/ken/paper/20230314vCSp/))
+1. 川口 貴子, 倉林 利行, 丹野 治門: "機械学習システムのデータセット自動収集・整形技術", 電子情報通信学会技術研究報告,  vol. 122, no. 432, SS2022-57, pp. 61-66, 2023年3月. ([paper](https://ken.ieice.org/ken/paper/20230314vCSp/))
 1. 渡辺 大登, 柗本 真佑, 肥後 芳樹, 楠本 真二, 倉林 利行, 切貫 弘之, 丹野 治門: "自動プログラム生成におけるプログラム依存を考慮した交叉法の提案と評価", 電子情報通信学会技術研究報告, Vol.122, No.225, pp.35-40, 2022年10月. ([paper](https://www.ieice.org/publications/ken/summary.php?contribution_id=120841&amp;society_cd=ISS&amp;ken_id=IE&amp;year=2022&amp;presen_date=2022-10-25&amp;schedule_id=7768&amp;lang=jp&amp;expandable=3))
 1. 倉林 利行，丹野 治門: "非エンジニア向けの Programming by Examples によるデータ加工支援の試み", ソフトウェア工学の基礎２９ 日本ソフトウェア科学会ＦＯＳＥ ２０２２ （レクチャーノート／ソフトウェア学） pp. 197-198, 2022年11月 [ライブ論文] (**ライブ論文賞**) ([paper](https://www.ieice.org/ken/paper/20220728HClA/))
 1. 髙市 陸, 肥後 芳樹, 柗本 真佑, 楠本 真二, 倉林 利行, 切貫 弘之, 丹野 治門: "構文誤りを含むプログラムを評価可能なソースコード用自動評価尺度の調査", 電子情報通信学会技術研究報告, Vol.122, No.138, pp.7-12, 2022年7月. ([paper](https://ken.ieice.org/ken/paper/20220728HClA/))
@@ -185,8 +185,8 @@ Sure, here are your citations in Markdown format:
 1. 安達 悠，倉林 利行，吉村 優，切貫 弘之，丹野 治門: "適切な画面識別に基づく画面遷移テストのスクリプト自動生成の試み", 第27回 ソフトウェア工学の基礎ワークショップ（ポスター発表）, 2020年11月
 1. 丹野 治門，切貫 弘之，安達 悠，熊川 一平，熊谷 尚俊，峯尾 彩: "テスト活動ログの可視化に基づく効率性と客観性を両立させたテスト手法", ソフトウェアエンジニアリングシンポジウム2020（ポスター発表）, 2020年9月 (**企業・ポスター賞**)
 1. 丹野 治門，切貫 弘之，安達 悠，熊川 一平，熊谷 尚俊，峯尾 彩: "ソフトウェア開発におけるテスト活動ログの活用に関する検討", ソフトウェアエンジニアリングシンポジウム2020：ワークショップWS5開発者の活動ログを活用したソフトウェア工学教育, 2020年9月
-1. Takuya Iwatsuka, Haruto Tanno, Eric Sharidan, Joseph Feiman: "Quick and Precise Security Testing During Development with Intelligence-Directed DAST", 13th IEEE Conference on Software Testing, Validation and Verification (ICST2020) [Demo], October 2020, to appear.
-1. Yu Yoshimura, Yu Adachi, Hiroyuki Kirinuki, Toshiyuki Kurabayashi, Haruto Tanno: "User-Friendly Input Assistance with Web Crawlingfor Test Script Generation", 13th IEEE Conference on Software Testing, Validation and Verification (ICST2020) [Demo], October 2020, to appear.
+1. Takuya Iwatsuka, Haruto Tanno, Eric Sharidan, Joseph Feiman: "Quick and Precise Security Testing During Development with Intelligence-Directed DAST", 13th IEEE Conference on Software Testing, Validation and Verification (ICST2020) [Demo], October 2020.
+1. Yu Yoshimura, Yu Adachi, Hiroyuki Kirinuki, Toshiyuki Kurabayashi, Haruto Tanno: "User-Friendly Input Assistance with Web Crawlingfor Test Script Generation", 13th IEEE Conference on Software Testing, Validation and Verification (ICST2020) [Demo], October 2020.
 1. 吉村 優，安達 悠，切貫 弘之，倉林 利行，丹野 治門: "テストスクリプト自動生成のための画面入力値作成支援技術", 第26回 ソフトウェア工学の基礎ワークショップ（ポスター発表）, 2019年11月
 1. 安達 悠，吉村 優，切貫 弘之，倉林 利行，丹野 治門: "Ｗｅｂアプリケーションの回帰テストにおける暗黙知観点のテストスクリプト自動生成手法", 第26回 ソフトウェア工学の基礎ワークショップ（ポスター発表）, 2019年11月
 1. Hiroyuki Kirinuki, Haruto Tanno, Katsuyuki Natsukawa："COLOR: Correct Locator Recommender for Broken Test Scripts using Various Clues in Web Application", ソフトウェアエンジニアリングシンポジウム2019 (招待講演, 既発表論文トラック), 2019年8月
