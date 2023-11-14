@@ -38,7 +38,7 @@
    - LatteArtをOSS公開 ([github](https://github.com/latteart-org/latteart))
 
 ## 自身の受賞：
-1. 2022年 9月 ソフトウェア工学研究会活動貢献賞, 情報処理学会 ソフトウェア工学研究会
+1. 2022年 9月 [ソフトウェア工学研究会活動貢献賞](https://www.sigse.jp/award.html), 情報処理学会 ソフトウェア工学研究会
 1. 2022年 4月 [情報処理学会論文誌ジャーナル/JIP特選論文](https://www.ipsj.or.jp/english/organization/aboutipsj/award/ssp_award.html), 情報処理学会, "Automating End-to-End Web Testing bis Manual Testing" (Hiroyuki Kirinuki, Haruto Tanno)
 1. 2022年 3月 センタ長表彰(イノベーション賞), NTT ソフトウェアイノベーションセンタ, "プログラム自動生成の高速化を実現する技術の確立に関する功績" (丹野 治門、他2名)
 1. 2022年 3月 センタ長表彰(業績賞), NTT ソフトウェアイノベーションセンタ, "フィードバック指向テスト技術の確立と、OSS化によるお客様提案力強化に関する功績" (丹野 治門、他3名)
@@ -413,10 +413,10 @@ Sure, here are your citations in Markdown format:
 
 ## 社会貢献
 **運営・編集委員：**
-1. 情報処理学会 ソフトウェア工学研究会 運営委員会，運営委員(2021年度、2022年度)
-1. 情報処理学会 ソフトウェア工学研究会 運営委員会， 幹事 (2017年度, 2018年度, 2019年度(会計担当), 2020年度(会計担当))
-1. 情報処理学会 論文誌「ソフトウェア工学特集」 編集委員会， 編集委員 (2017年度, 2018年度, 2019年度, 2020年度, 2021年度、2022年度)
-1. 電子情報通信学会　ソサイエティ論文誌編集委員会　常任査読委員 (2018年-現在)
+1. 情報処理学会 ソフトウェア工学研究会 運営委員会，運営委員(2021年度～2023年度)
+1. 情報処理学会 ソフトウェア工学研究会 運営委員会，幹事 (2017年度～2020年度)
+1. 情報処理学会 論文誌「ソフトウェア工学特集」 編集委員会， 編集委員 (2017年度～2023年度)
+1. 電子情報通信学会 ソサイエティ論文誌編集委員会　常任査読委員 (2018年-現在)
 1. 2022年 9月情報処理学会 ソフトウェアエンジニアリングシンポジウム2022 ポスター委員長
 1. 2020年9月 情報処理学会 ソフトウェアエンジニアリングシンポジウム2020 会計委員長
 1. 2019年9月 情報処理学会 ソフトウェアエンジニアリングシンポジウム2019 会計委員長
@@ -424,10 +424,10 @@ Sure, here are your citations in Markdown format:
 1. 2016年9月 情報処理学会 ソフトウェアエンジニアリングシンポジウム2016，ポスター委員長
 
 **プログラム委員：**
-1. 日本ソフトウェア科学会 ソフトウェア工学の基礎研究会(FOSE), プログラム委員 (2018, 2019, 2020, 2021, 2022)
-1. 情報処理学会 ソフトウェアエンジニアリングシンポジウム(SES)，プログラム委員 (2016, 2017, 2018, 2020, 2021, 2022)
-1. Workshop on Testing: Academia-Industry Collaboration, Practice and Research Techniques (TAICPART), Program Committee Member (2016, 2017, 2018, 2019, 2020)
-1. International Workshop on Validating Software Tests (VST), Program Committee Member (2016)
+1. 日本ソフトウェア科学会 ソフトウェア工学の基礎研究会(FOSE), プログラム委員 (2018年～2022年)
+1. 情報処理学会 ソフトウェアエンジニアリングシンポジウム(SES)，プログラム委員 (2016年～2018年, 2020年～2023年)
+1. Workshop on Testing: Academia-Industry Collaboration, Practice and Research Techniques (TAICPART), Program Committee Member (2016年～2020年)
+1. International Workshop on Validating Software Tests (VST), Program Committee Member (2016年)
 
 **討論リーダ：**
 1. 2019年1月 情報処理学会 ウィンターワークショップ2019・イン・福島飯坂「効果的にソフトウェアバグを見つけて修正し減らすことを目指したテスト，デバッグ，品質管理」，討論リーダ ([ページ](http://wws.sigse.jp/2019/cfp.html#T4))
