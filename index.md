@@ -66,7 +66,7 @@
 1. 2007年 3月 目黒会賞，電気通信大学同窓会目黒会
 
 ## 共著者の受賞：
-1. 2023年11月 切貫弘之, ポスター・デモ賞, 日本ソフトウェア科学会 第30回ソフトウェア工学の基礎ワークショップ "ChatGPTによるブラックボックステストおよび人間との協調可能性について"
+1. 2023年11月 切貫 弘之, ポスター・デモ賞, 日本ソフトウェア科学会 第30回ソフトウェア工学の基礎ワークショップ "ChatGPTによるブラックボックステストおよび人間との協調可能性について"
 1. 2022年11月 倉林 利行, [ライブ論文賞](https://fose.jssst.or.jp/fose2022/awards.html), 日本ソフトウェア科学会 第29回ソフトウェア工学の基礎ワークショップ, "非エンジニア向けの Programming by Examplesによるデータ加工支援の試み"
 2. 2021年10月 安積 直道, [学生奨励賞](https://jssst2021.wordpress.com/), 日本ソフトウェア科学会第38会大会, "ソフトウェアテストを評価するためのバグ入りアプリケーションの自動生成"
 3. 2021年3月 倉林 利行, [山下記念研究賞](https://www.ipsj.or.jp/award/yamasita2021-detail.html), 情報処理学会, "深層学習と遺伝的アルゴリズムを用いたプログラム自動生成"
@@ -80,6 +80,7 @@
 
 ## 研究業績：
 **国際会議論文**
+1. Nao Souma, Ito Waka, Momoka Obara, Takako Kawaguchi, Yuka Akinobu, Toshiyuki Kurabayashi, Haruto Tanno NTT, Kimio Kuramitsu: "Can ChatGPT Correct Code Based on Logical Steps?", 30th Asia-Pacific Software Engineering Conference (APSEC2023) [Early Research Achievements], to appear.
 1. Hiroyuki Kirinuki, Masaki Tajima, Haruto Tanno: "LatteArt: A Platform for Recording and Analyzing Exploratory Testing", 16th IEEE International Conference on Software Testing, Verification and Validation (ICST2023), [Testing Tools] ([paper](https://ieeexplore.ieee.org/abstract/document/10132294/references#references)).
 1. Riku Takaichi, Yoshiki Higo, Shinsuke Matsumoto, Shinji Kusumoto, Toshiyuki Kurabayashi, Hiroyuki Kirinuki, Haruto Tanno: "Are NLP Metrics Suitable for Evaluating Generated Code?", Product-Focused Software Process Improvement - 23rd International Conference (PROFES2022) [Poster] ([paper](https://link.springer.com/chapter/10.1007/978-3-031-21388-5_38)).
 1. Hiroto Watanabe, Shinsuke Matsumoto, Yoshiki Higo, Shinji Kusumoto, Toshiyuki Kurabayashi, Hiroyuki Kirinuki, Haruto Tanno: "Applying Multi-Objective Genetic Algorithm for Efficient Selection on Program Generation", 28th Asia-Pacific Software Engineering Conference (APSEC2021) [Early Research Achievement] (**Best ERA Paper**), December 2021 ([paper](https://ieeexplore.ieee.org/document/9712020)).
@@ -106,8 +107,8 @@
 1. Haruto Tanno, Hideya Iwasaki: "Parallel Skeletons for Variable-length Lists in SkeTo Skeleton Library", 15th European Conference on Parallel Processing (Euro-Par 2009), Lecture Notes in Computer Science 5704, Springer, pp. 666-677, August 2009 ([paper](http://dl.acm.org/citation.cfm?id=1616772.1616845&amp;coll=DL&amp;dl=GUIDE&amp;CFID=51799431&amp;CFTOKEN=52400630)).
 
 **学術雑誌論文：**
+1. 倉林 利行, 丹野 治門, 切貫 弘之, 大島 剛志: "プログラム合成技術の動向調査", コンピュータソフトウェア, Vol. 40, No. 2, pp. 2_95-2_128, 2023 ([paper](https://www.jstage.jst.go.jp/article/jssst/40/2/40_2_95/_pdf/-char/ja)).
 1. 渡辺 大登，柗本 真佑，肥後 芳樹，楠本 真二，倉林 利行，切貫 弘之，丹野 治門: "自動プログラム生成に対する多目的遺伝的アルゴリズムの導入　–相補的な個体選択を目的として–", 情報処理学会論文誌, Vol.63, No.10, pp.1564--1573, 2022年10月 ([paper](https://ipsj.ixsq.nii.ac.jp/ej/index.php?active_action=repository_view_main_item_detail&amp;page_id=13&amp;block_id=8&amp;item_id=220343&amp;item_no=1)).
-1. 倉林 利行, 丹野 治門, 切貫 弘之, 大島 剛志: "プログラム合成技術の動向調査", コンピュータソフトウェア, Vol. 40, No. 2, pp. 3_121-3_147, 2017. ([paper](https://www.jstage.jst.go.jp/article/jssst/40/2/40_2_95/_pdf/-char/ja))
 1. Hiroyuki Kirinuki, Haruto Tanno: "Automating End-to-Endo Web Testing bis Manual Testing", Journal of Information Processing, Vol. 63, No 4, 2022. (**JIP特選論文**).
 1. Haruto Tanno, Yu Adachi, Yu Yoshimura, Katsuyuki Natsukawa, Hideya Iwasaki: "Region-based Detection of Essential Differences in Image-based Visual Regression Testing", Journal of Information Processing, Vol. 28, pp. 268-278, 2020. ([paper](https://www.jstage.jst.go.jp/article/ipsjjip/28/0/28_268/_article/-char/en)).
 1. 肥後 芳樹, まつ本 真佑, 内藤 圭吾, 谷門 照斗, 楠本 真二, 切貫 弘之, 倉林 利行, 丹野 治門: "設定ファイルを考慮したFault Localizationの拡張", 情報処理学会論文誌:ソフトウェア工学特集, Vol. 61, No. 4, pp. 884-894, 2020. ([paper](https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&amp;active_action=repository_view_main_item_detail&amp;item_id=204333&amp;item_no=1)).
