@@ -80,7 +80,7 @@
 
 ## 研究業績：
 **国際会議論文**
-1. Nao Souma, Ito Waka, Momoka Obara, Takako Kawaguchi, Yuka Akinobu, Toshiyuki Kurabayashi, Haruto Tanno NTT, Kimio Kuramitsu: "Can ChatGPT Correct Code Based on Logical Steps?", 30th Asia-Pacific Software Engineering Conference (APSEC2023) [Early Research Achievements], to appear.
+1. Nao Souma, Ito Waka, Momoka Obara, Takako Kawaguchi, Yuka Akinobu, Toshiyuki Kurabayashi, Haruto Tanno, Kimio Kuramitsu: "Can ChatGPT Correct Code Based on Logical Steps?", 30th Asia-Pacific Software Engineering Conference (APSEC2023) [Early Research Achievements], to appear.
 1. Hiroyuki Kirinuki, Masaki Tajima, Haruto Tanno: "LatteArt: A Platform for Recording and Analyzing Exploratory Testing", 16th IEEE International Conference on Software Testing, Verification and Validation (ICST2023), [Testing Tools] ([paper](https://ieeexplore.ieee.org/abstract/document/10132294/references#references)).
 1. Riku Takaichi, Yoshiki Higo, Shinsuke Matsumoto, Shinji Kusumoto, Toshiyuki Kurabayashi, Hiroyuki Kirinuki, Haruto Tanno: "Are NLP Metrics Suitable for Evaluating Generated Code?", Product-Focused Software Process Improvement - 23rd International Conference (PROFES2022) [Poster] ([paper](https://link.springer.com/chapter/10.1007/978-3-031-21388-5_38)).
 1. Hiroto Watanabe, Shinsuke Matsumoto, Yoshiki Higo, Shinji Kusumoto, Toshiyuki Kurabayashi, Hiroyuki Kirinuki, Haruto Tanno: "Applying Multi-Objective Genetic Algorithm for Efficient Selection on Program Generation", 28th Asia-Pacific Software Engineering Conference (APSEC2021) [Early Research Achievement] (**Best ERA Paper**), December 2021 ([paper](https://ieeexplore.ieee.org/document/9712020)).
