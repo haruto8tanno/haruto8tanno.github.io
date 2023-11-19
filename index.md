@@ -24,7 +24,7 @@
 - **2007年10月～2008年2月**: 電気通信大学 電気通信学部, ティーチングアシスタント。基礎プログラミングおよび演習。
 - **2009年 4月～現在**: 日本電信電話株式会社。ソフトウェアテスト自動化・生成AIのソフトウェア工学への応用等に関する研究開発及び事業導入。
 
-## 所属学会:
+## 所属学会：
 - 情報処理学会 正会員
 - 未踏(Mitou Foundation) 正会員
 
@@ -39,7 +39,7 @@
   - 生成AI活用を前提とした開発プロセス・アーキテクチャ設計
   - ソフト開発の各工程（企画・設計・実装・テスト）支援
 
-## 関心事項
+## 関心事項：
 ソフトウェア開発を**楽しく効率よく**行うため、
 - 開発プロセスはどうあるべきか
 - 個々の工程・タスクを技術でいかに支援・自動化できるか
@@ -49,7 +49,7 @@
 
 最近は特に、**「生成AIの登場によって、ソフトウェア開発や人材育成がどのように変わっていくのか？変えていくべきなのか？」** という点に強い関心があります。
 
-## 開発スキル
+## 開発スキル：
 - **開発手法**：ウォーターフォール、アジャイル（スクラム）、OSS開発
 - **プログラミング言語**：C#、Java、C/C++、Python、JavaScript/TypeScript
 - **フレームワーク・ツール**：Roslyn、ASP.NET (Blazor)、Django、Node.js、DirectX
@@ -279,7 +279,7 @@ Sure, here are your citations in Markdown format:
 1. 丹野 治門: "未踏ユースから育ったタレントたち【PART 1 若い未踏クリエータからのメッセージ】:19.自分の欲しいソフトウェアを創る", 情報処理学会 会誌「情報処理」, Vol. 52, No. 12, pp. 1502, 2011年11月. ([article](https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=78373&item_no=1&page_id=13&block_id=8))
 
 
-## 特許
+## 特許：
 1. 	公開	プログラム生成装置、プログラム生成方法及びプログラム	JP2021104657	JP2023003531A		"倉林 利行
 丹野 治門
 切貫 弘之
@@ -452,7 +452,7 @@ Sure, here are your citations in Markdown format:
 張  暁晶
 星野  隆"
 
-## 社会貢献
+## 社会貢献：
 **運営・編集委員：**
 1. 情報処理学会 ソフトウェア工学研究会 運営委員会，運営委員(2021年度～2023年度)
 1. 情報処理学会 ソフトウェア工学研究会 運営委員会，幹事 (2017年度～2020年度)
@@ -497,8 +497,7 @@ Sure, here are your citations in Markdown format:
 1. 情報処理学会 論文誌ジャーナル, 査読者
 1. 電気情報通信学会 論文誌D，査読者
 
-## 招待講演
-**招待講演：**
+## 招待講演：
 1. "産学連携における傾向と対策"（パネルセッション）, ソフトウェア開発における産学協創フォーラム, 2019年7月1日 ([資料](https://www.slideshare.net/hidetoonoguchi/ss-153262157?ref=https://saicollo.connpass.com/event/131725/presentation/))
 1. "企業のソフトウェア開発に対する自動プログラム修正技術適用に関する産学連携事例紹介", ソフトウェア開発における産学協創フォーラム, 2019年7月1日 ([発表資料](https://www.slideshare.net/ToshiyukiKurabayashi/ss-153331243?ref=https://saicollo.connpass.com/event/131725/presentation/))
 1. "テスト自動化の基本的な考え方とNTTにおける研究開発の紹介", 第25回 SPIトワイライトフォーラム, 2019年3月26日 ([概要](http://www.jaspic.org/events/twilight/2019-03/), [発表資料](http://www.jaspic.org/wordpress/wp-content/uploads/JASPIC_SPI-TwilightForum_20190326.pdf))
@@ -507,7 +506,7 @@ Sure, here are your citations in Markdown format:
 1. "ソフトウェア開発の楽しさ", 名古屋工業大学の講義「情報工学概論」(情報処理系学生165名が受講), 2008年12月17日
 1. "みんなで創るＲＰＧ -kameTL-", 電気通信大学　地域・産学官連携推進機構　特別フォーラム「次世代の天才プログラマー　from電通大」, 2008年11月22日 ([報告](http://www.sangaku.uec.ac.jp/report/report.html))
 
-## 学位論文
+## 学位論文：
 - Haruto Tanno: "Software Test Automation for Database Applications with Graphical User Interfaces", 電気通信大学大学院 情報理工学研究科　情報・ネットワーク工学専攻 博士論文, 2020年6月 ([要旨](https://uec.repo.nii.ac.jp/?action=repository_uri&item_id=9645&file_id=20&file_no=1)，[博士論文](https://uec.repo.nii.ac.jp/?action=repository_uri&item_id=9648&file_id=20&file_no=1))
 - 丹野 治門: "並列スケルトンライブラリSkeToにおける可変長リストの実装と評価", 電気通信大学大学院 電気通信学研究科 情報工学専攻 修士論文, 2009年3月 ([要旨](http://www.lib.uec.ac.jp/limedio/dlam/M463799/5.pdf), [slide](https://haruto8tanno.github.io/slides/slide(master%20thesis).pdf))
 - 丹野 治門: "階層型ノンプリエンプティブスレッドを用いたゲームシステム記述言語", 電気通信大学 電気通信学部 情報工学科 卒業論文, 2007年3月 ([slide](https://haruto8tanno.github.io/slides/slide(graduation%20thesis).pdf))
