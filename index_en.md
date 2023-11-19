@@ -33,6 +33,16 @@ The University of Electro-Communications, Tokyo, Japan
   - Development Process and Architectural Design predicated on the use of Generative AI
   - Support across Various Phases of Software Development (Planning, Design, Implementation, Testing)
 
+## Areas of Interest
+
+In pursuit of making software development **both enjoyable and efficient**, my areas of interest include:
+
+- Determining the optimal software development process.
+- Exploring how technology can assist and automate specific processes and tasks.
+- Developing strategies for effective personnel development and cultural cultivation.
+
+Recently, I have been particularly interested in **how the emergence of generative AI is changing, and should change, software development and talent development**.
+
 ## Development Skills:
 - **Development Methodologies**: Proficient in Waterfall, Agile (Scrum), and Open Source Software (OSS) development approaches.
 - **Programming Languages**: Skilled in C#, Java, C/C++, Python, JavaScript/TypeScript.
