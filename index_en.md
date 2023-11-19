@@ -9,15 +9,10 @@ Updated at Nov. 2023
 - Senior Manager, Software Engineering and Operation Technology Project, Software Innovation Center,
 NIPPON TELEGRAPH AND TELEPHONE CORPORATION (NTT) in Japan
 
-## Research Focus:
-- Software Testing Automation
-- Debugging
-- Programming Languages
-- Application of Large Language Models & Generative AI in Software Engineering
-
-## Experience
-- Over 14 years of engagement in research, development, and business implementation of software development support technologies, primarily focused on test automation for web applications and enterprise systems.
-- Recently, leading a team in pioneering research on the utilization of Large Language Models (LLMs) and Generative AI in software development.
+## Professional Experience:
+- **April 2009 – Present**: Nippon Telegraph and Telephone Corporation (NTT). Involved in research and development as well as business implementation related to software test automation, and the application of generative AI in software engineering.
+- **October 2007 – February 2008**: Teaching Assistant, Department of Electronic and Communication Engineering, University of Electronic Communications. Conducted lectures and exercises in Basic Programming.
+- **June 2003 – January 2007**: Part-time Instructor at Shingakusha, Kotesashi Branch. Engaged in group and individual tutoring, parent-teacher meetings, and career counseling.
 
 ## Education：
 - Ph.D. (Engineering) in Computer and Network Engineering, June 2020
@@ -26,6 +21,29 @@ The University of Electro-Communications, Tokyo, Japan
 The University of Electro-Communications, Tokyo, Japan
 - Bachelor (Engineering) in Computer Science, March 2007
 The University of Electro-Communications, Tokyo, Japan
+
+## Research Areas:
+- **Software Test Automation**
+  - Model-Based Testing, Symbolic Execution, Regression Testing, Exploratory Testing
+- **Debugging**
+  - Real-Time Debugging, Visualization
+- **Programming Languages**
+  - Domain-Specific Languages, Code Transformation, Code Analysis
+- **Application of Large-Scale Language Models and Generative AI in Software Engineering**
+  - Development Process and Architectural Design predicated on the use of Generative AI
+  - Support across Various Phases of Software Development (Planning, Design, Implementation, Testing)
+
+## Development Skills:
+- **Development Methodologies**: Proficient in Waterfall, Agile (Scrum), and Open Source Software (OSS) development approaches.
+- **Programming Languages**: Skilled in C#, Java, C/C++, Python, JavaScript/TypeScript.
+- **Frameworks & Tools**: Experienced with Roslyn, ASP.NET (Blazor), Django, Node.js, DirectX.
+- **Cloud Platforms**: Familiar with deploying small-scale services using AWS and Azure as a hobbyist.
+
+## Management Skills:
+- **Strategic Planning**: Expert in formulating research and development visions and roadmaps, clearly articulating strategic directions to senior management.
+- **Inter-company Collaboration**: Proficient in advancing collaborations with group companies and other enterprises, effectively managing research and development projects across multiple organizations.
+- **Industry-Academia Collaboration**: Skilled in establishing close cooperative relationships with universities and research institutions, promoting innovation through joint research, technology exchange, and talent development.
+- **Talent Development and Career Support**: Committed to supporting subordinates in research, paper writing, and development management. Offers opportunities in conference management and other activities, aiding in career advancement.
 
 ## Publications：
 **Conference Papers**
