@@ -5,16 +5,16 @@ Updated at Nov. 2023
 
 <img src="images/tanno.jpg" alt="写真" title="写真" width="400"/>
 
-## Affiliation：
+## Affiliation
 - Senior Manager, Software Engineering and Operation Technology Project, Software Innovation Center,
 NIPPON TELEGRAPH AND TELEPHONE CORPORATION (NTT) in Japan
 
-## Professional Experience:
+## Professional Experience
 - **April 2009 – Present**: Nippon Telegraph and Telephone Corporation (NTT). Involved in research and development as well as business implementation related to software test automation, and the application of generative AI in software engineering.
 - **October 2007 – February 2008**: Teaching Assistant, Department of Electronic and Communication Engineering, University of Electronic Communications. Conducted lectures and exercises in Basic Programming.
 - **June 2003 – January 2007**: Part-time Instructor at Shingakusha, Kotesashi Branch. Engaged in group and individual tutoring, parent-teacher meetings, and career counseling.
 
-## Education：
+## Education
 - Ph.D. (Engineering) in Computer and Network Engineering, June 2020
 The University of Electro-Communications, Tokyo, Japan
 - Master (Engineering) in Computer Science, March 2009
@@ -22,7 +22,7 @@ The University of Electro-Communications, Tokyo, Japan
 - Bachelor (Engineering) in Computer Science, March 2007
 The University of Electro-Communications, Tokyo, Japan
 
-## Research Areas:
+## Research Areas
 - **Software Test Automation**
   - Model-Based Testing, Symbolic Execution, Regression Testing, Exploratory Testing
 - **Debugging**
@@ -43,19 +43,19 @@ In pursuit of making software development **both enjoyable and efficient**, my a
 
 Recently, I have been particularly interested in **how the emergence of generative AI is changing, and should change, software development and talent development**.
 
-## Development Skills:
+## Development Skills
 - **Development Methodologies**: Proficient in Waterfall, Agile (Scrum), and Open Source Software (OSS) development approaches.
 - **Programming Languages**: Skilled in C#, Java, C/C++, Python, JavaScript/TypeScript.
 - **Frameworks & Tools**: Experienced with Roslyn, ASP.NET (Blazor), Django, Node.js, DirectX.
 - **Cloud Platforms**: Familiar with deploying small-scale services using AWS and Azure as a hobbyist.
 
-## Management Skills:
+## Management Skills
 - **Strategic Planning**: Expert in formulating research and development visions and roadmaps, clearly articulating strategic directions to senior management.
 - **Inter-company Collaboration**: Proficient in advancing collaborations with group companies and other enterprises, effectively managing research and development projects across multiple organizations.
 - **Industry-Academia Collaboration**: Skilled in establishing close cooperative relationships with universities and research institutions, promoting innovation through joint research, technology exchange, and talent development.
 - **Talent Development and Career Support**: Committed to supporting subordinates in research, paper writing, and development management. Offers opportunities in conference management and other activities, aiding in career advancement.
 
-## Publications：
+## Publications
 **Conference Papers**
 1. Nao Souma, Ito Waka, Momoka Obara, Takako Kawaguchi, Yuka Akinobu, Toshiyuki Kurabayashi, Haruto Tanno, Kimio Kuramitsu: "Can ChatGPT Correct Code Based on Logical Steps?", 30th Asia-Pacific Software Engineering Conference (APSEC2023) [Early Research Achievements], to appear.
 1. Hiroyuki Kirinuki, Masaki Tajima, Haruto Tanno: "LatteArt: A Platform for Recording and Analyzing Exploratory Testing", 16th IEEE International Conference on Software Testing, Verification and Validation (ICST2023), [Testing Tools] ([paper](https://ieeexplore.ieee.org/abstract/document/10132294/references#references)).
@@ -83,7 +83,7 @@ Recently, I have been particularly interested in **how the emergence of generati
 1. Xiaojing Zhang, Haruto Tanno, Takashi Hoshino: "Introducing Test Case Derivation Techniques into Traditional Software Development: Obstacles and Potentialities", Testing: Academic and Industrial Conference Practice And Research Techniques (TAIC PART 2011) [short paper], pp. 559-560, March 2011 ([paper](http://dl.acm.org/citation.cfm?id=2004685.2005451&amp;coll=DL&amp;dl=GUIDE&amp;CFID=51799431&amp;CFTOKEN=52400630)).
 1. Haruto Tanno, Hideya Iwasaki: "Parallel Skeletons for Variable-length Lists in SkeTo Skeleton Library", 15th European Conference on Parallel Processing (Euro-Par 2009), Lecture Notes in Computer Science 5704, Springer, pp. 666-677, August 2009 ([paper](http://dl.acm.org/citation.cfm?id=1616772.1616845&amp;coll=DL&amp;dl=GUIDE&amp;CFID=51799431&amp;CFTOKEN=52400630)).
 
-**Academic Journals:**
+**Academic Journals**
 1. Toshiyuki Kurabayashi, Haruto Tanno, Hiroyuki Kirinuki, Tsuyoshi Oshima: "プログラム合成技術の動向" (Trends in Program Synthesis Technology - unofficial English translation), (in Japanese), Computer Software, Vol. 40, No. 2, pp. 2_95-2_128, 2023 ([paper](https://www.jstage.jst.go.jp/article/jssst/40/2/40_2_95/_pdf/-char/ja)).
 2. Hiroto Watanabe, Masayu Togemoto, Yoshihiko Higo, Shinji Kusumoto, Toshiyuki Kurabayashi, Hiroyuki Kirinuki, Haruto Tanno: "Applying Multi-objective Genetic Algorithm to Improve Automated Program Generation by Selecting Complementary Variants", (in Japanese), Journal of the Information Processing Society of Japan, Vol.63, No.10, pp.1564--1573, October 2022 ([paper](https://ipsj.ixsq.nii.ac.jp/ej/index.php?active_action=repository_view_main_item_detail&amp;page_id=13&amp;block_id=8&amp;item_id=220343&amp;item_no=1)).
 3. Hiroyuki Kirinuki, Haruto Tanno: "Automating End-to-End Web Testing bis Manual Testing", Journal of Information Processing, Vol. 63, No 4, 2022. (**JIP Specally Selected Paper**).
@@ -99,16 +99,16 @@ Recently, I have been particularly interested in **how the emergence of generati
 12. Haruto Tanno, Xiaojing Zhang, Takashi Hoshino: "Design Model Based Generation of Initial Database for Testing", (in Japanese), Journal of the Information Processing Society of Japan, Vol. 53, No. 2, pp. 566-577, 2012. ([abstract](https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&amp;active_action=repository_view_main_item_detail&amp;item_id=80668&amp;item_no=1)).
 13. Haruto Tanno: "Design and Implementation of Real-time Debugger for Game Programming", (in Japanese), IPSJ Transaction on Programming, Vol. 1, No. 2, pp. 42-56, 2008. ([abstract](https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&amp;active_action=repository_view_main_item_detail&amp;item_id=16436&amp;item_no=1)), ([slide](https://haruto8tanno.github.io/slides/slide(pro68).pdf)).
 
-**Posters/Demos：**
+**Posters/Demos**
 1. Takuya Iwatsuka, Haruto Tanno, Eric Sharidan, Joseph Feiman: "Quick and Precise Security Testing During Development with Intelligence-Directed DAST", 13th IEEE Conference on Software Testing, Validation and Verification (ICST2020) [Demo], October 2020.
 1. Yu Yoshimura, Yu Adachi, Hiroyuki Kirinuki, Toshiyuki Kurabayashi, Haruto Tanno: "User-Friendly Input Assistance with Web Crawlingfor Test Script Generation", 13th IEEE Conference on Software Testing, Validation and Verification (ICST2020) [Demo], October 2020.
-1. Hiroyuki Kirinuki, Haruto Tanno, Katsuyuki Natsukawa："COLOR: Correct Locator Recommender for Broken Test Scripts using Various Clues in Web Application", ソフトウェアエンジニアリングシンポジウム2019 (招待講演, 既発表論文トラック), 2019年8月
+1. Hiroyuki Kirinuki, Haruto Tanno, Katsuyuki Natsukawa: "COLOR: Correct Locator Recommender for Broken Test Scripts using Various Clues in Web Application", ソフトウェアエンジニアリングシンポジウム2019 (招待講演, 既発表論文トラック), 2019年8月
 1. Haruto Tanno, Yu Adachi and Yu Yoshimura: "Masking Dynamic Content Areas Based on Positional Relationship of Screen Elements for Visual Regression Testing", 12th IEEE Conference on Software Testing, Validation and Verification (ICST2019) [Demo], April 2019 ([movie](https://www.youtube.com/watch?v=8WQhAmm09mE&feature=youtu.be))
 1. Muneyoshi Iyama, Hiroyuki Kirinuki, Toshiyuki Kurabayashi, Haruto Tanno: "Test Script Generation Tool for Regression Testing using Static and Dynamic Analysis", 11th IEEE Conference on Software Testing, Validation and Verification (ICST2018) [Demo], April 2018 ([movie](https://www.youtube.com/watch?v=amLyaGb4c_E))
 1. Hiroyuki Kirinuki, Haruto Tanno, Katsuyuki Natsukawa: "Interactive Repair of Test Scripts Using Various Clues in Web Application", 11th IEEE Conference on Software Testing, Validation and Verification (ICST2018) [Demo], April 2018 ([movie](https://www.youtube.com/watch?v=6x5dGVzn5Zo))
 
 
-**Others：**
+**Others**
 1. Haruto Tanno, Hiroyuki Kirinuki, Takahiro Kawaguchi, Masaki Tajima, Morihide Oinuma, Tatsuya Muramoto: "Test-activity Analysis for Efficient Iterative Testing", NTT Technical Review, February 2022 Vol. 20 No. 4, pp.26-31, February 2021. ([article](https://www.ntt-review.jp/archive/ntttechnical.php?contents=ntr202204fa4.html))
 1. Haruto Tanno, Hiroyuki Kirinuki, Yu Adachi, Morihide Oinuma, Tatsuya Muramoto: "Test Automation Technology for Analyzing Test-activity Data and Detecting Bugs", NTT Technical Review, February 2021 Vol. 19 No. 2, February 2021. ([article](https://www.ntt-review.jp/archive/ntttechnical.php?contents=ntr202102fa7.html))
 1. Haruto Tanno, Morihide Oinuma, Katsuyuki Natsukawa: "Test Automation Technology to Promote Early and Frequent Releases of Software at Low Cost", NTT Technical Review, January 2017 Vol. 15 No. 2, February 2017. ([article](https://www.ntt-review.jp/archive/ntttechnical.php?contents=ntr201702fa3.html))
