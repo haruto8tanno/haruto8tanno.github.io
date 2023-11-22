@@ -54,7 +54,7 @@
 - **プログラミング言語**：C#、Java、C/C++、Python、JavaScript/TypeScript
 - **フレームワーク・ツール**：ASP.NET (Blazor)、Django、Node.js、Roslyn、DirectX、Docker/Docker Compose
 - **クラウドプラットフォーム**：AWS、Azure
-- **テスト自動化**：Selenium、Playright
+- **テスト自動化**：Selenium、Playwright
 - **CI/CD**：GitHub Actions
 
 ## マネジメントスキル：
