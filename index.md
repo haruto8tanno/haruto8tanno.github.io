@@ -52,8 +52,10 @@
 ## 開発スキル：
 - **開発手法**：ウォーターフォール、アジャイル（スクラム）、OSS開発
 - **プログラミング言語**：C#、Java、C/C++、Python、JavaScript/TypeScript
-- **フレームワーク・ツール**：Roslyn、ASP.NET (Blazor)、Django、Node.js、DirectX
+- **フレームワーク・ツール**：ASP.NET (Blazor)、Django、Node.js、Roslyn、DirectX、Docker/Docker Compose
 - **クラウドプラットフォーム**：AWS、Azure
+- **テスト自動化**：Selenium、Playright
+- **CI/CD**：GitHub Actions
 
 ## マネジメントスキル：
 - **戦略的計画**: 研究開発のビジョンとロードマップを策定し、社内幹部に方向性を明確に説明。

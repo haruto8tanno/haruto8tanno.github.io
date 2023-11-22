@@ -44,10 +44,12 @@ In pursuit of making software development **both enjoyable and efficient**, my a
 Recently, I have been particularly interested in **how the emergence of generative AI is changing, and should change, software development and talent development**.
 
 ## Development Skills
-- **Development Methodologies**: Proficient in Waterfall, Agile (Scrum), and Open Source Software (OSS) development approaches.
+- **Development Methodologies**: Proficient in Waterfall, Agile (Scrum), and OSS development.
 - **Programming Languages**: Skilled in C#, Java, C/C++, Python, JavaScript/TypeScript.
-- **Frameworks & Tools**: Experienced with Roslyn, ASP.NET (Blazor), Django, Node.js, DirectX.
-- **Cloud Platforms**: Familiar with deploying small-scale services using AWS and Azure as a hobbyist.
+- **Frameworks & Tools**: Experienced with ASP.NET (Blazor), Django, Node.js, Roslyn, DirectX, Docker/Docker Compose.
+- **Cloud Platforms**: Familiar with AWS and Azure.
+- **Test Automation**: Proficient in Selenium and Playwright.
+- **CI/CD**: Skilled in using GitHub Actions.
 
 ## Management Skills
 - **Strategic Planning**: Expert in formulating research and development visions and roadmaps, clearly articulating strategic directions to senior management.
