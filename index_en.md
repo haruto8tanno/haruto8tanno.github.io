@@ -52,9 +52,9 @@ Recently, I have been particularly interested in **how the emergence of generati
 
 ## Management Skills
 - **Strategic Planning**: Expert in formulating research and development visions and roadmaps, clearly articulating strategic directions to senior management.
+- **Talent Development and Career Support**: Committed to supporting subordinates in research, paper writing, and development management. Offers opportunities in conference management and other activities, aiding in career advancement.
 - **Inter-company Collaboration**: Proficient in advancing collaborations with group companies and other enterprises, effectively managing research and development projects across multiple organizations.
 - **Industry-Academia Collaboration**: Skilled in establishing close cooperative relationships with universities and research institutions, promoting innovation through joint research, technology exchange, and talent development.
-- **Talent Development and Career Support**: Committed to supporting subordinates in research, paper writing, and development management. Offers opportunities in conference management and other activities, aiding in career advancement.
 
 ## Publications
 **Conference Papers**
