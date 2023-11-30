@@ -24,17 +24,16 @@ The University of Electro-Communications, Tokyo, Japan
 
 ## Research Areas
 - **Software Test Automation**
-  - Model-Based Testing, Symbolic Execution, Regression Testing, Exploratory Testing
+  - Model-based testing, symbolic execution, regression testing, exploratory testing
 - **Debugging**
-  - Real-Time Debugging, Visualization
+  - Real-time debugging, visualization
 - **Programming Languages**
-  - Domain-Specific Languages, Code Transformation, Code Analysis
-- **Application of Large-Scale Language Models and Generative AI in Software Engineering**
-  - Development Process and Architectural Design predicated on the use of Generative AI
-  - Support across Various Phases of Software Development (Planning, Design, Implementation, Testing)
+  - Domain-specific languages, code transformation, code analysis
+- **Application of Generative AI in Software Engineering**
+  - Development process and architecture design assuming the use of generative AI
+  - Automation of various software development tasks using prompt engineering and fine-tuning
 
 ## Areas of Interest
-
 In pursuit of making software development **both enjoyable and efficient**, my areas of interest include:
 
 - Determining the optimal software development process.
