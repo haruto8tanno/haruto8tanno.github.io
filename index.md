@@ -1,6 +1,6 @@
 [For English version, click here](./index_en.md)
 
-最終更新日: 2023年月12月
+最終更新日: 2024年月3月
 
 # 丹野 治門（たんの　はると）
 # Haruto Tanno
@@ -123,7 +123,7 @@
 
 ## 研究業績：
 **国際会議論文**
-1. Nao Souma, Ito Waka, Momoka Obara, Takako Kawaguchi, Yuka Akinobu, Toshiyuki Kurabayashi, Haruto Tanno, Kimio Kuramitsu: "Can ChatGPT Correct Code Based on Logical Steps?", 30th Asia-Pacific Software Engineering Conference (APSEC2023) [Early Research Achievements], to appear.
+1. Nao Souma, Ito Waka, Momoka Obara, Takako Kawaguchi, Yuka Akinobu, Toshiyuki Kurabayashi, Haruto Tanno, Kimio Kuramitsu: "Can ChatGPT Correct Code Based on Logical Steps?", 30th Asia-Pacific Software Engineering Conference (APSEC2023) [Early Research Achievements] ([paper](https://conf.researchr.org/details/apsec-2023/apsec-2023-early-research-achievements/18/Can-ChatGPT-Correct-Code-Based-on-Logical-Steps-Short-Paper-)).
 1. Hiroyuki Kirinuki, Masaki Tajima, Haruto Tanno: "LatteArt: A Platform for Recording and Analyzing Exploratory Testing", 16th IEEE International Conference on Software Testing, Verification and Validation (ICST2023), [Testing Tools] ([paper](https://ieeexplore.ieee.org/abstract/document/10132294/references#references)).
 1. Riku Takaichi, Yoshiki Higo, Shinsuke Matsumoto, Shinji Kusumoto, Toshiyuki Kurabayashi, Hiroyuki Kirinuki, Haruto Tanno: "Are NLP Metrics Suitable for Evaluating Generated Code?", Product-Focused Software Process Improvement - 23rd International Conference (PROFES2022) [Poster] ([paper](https://link.springer.com/chapter/10.1007/978-3-031-21388-5_38)).
 1. Hiroto Watanabe, Shinsuke Matsumoto, Yoshiki Higo, Shinji Kusumoto, Toshiyuki Kurabayashi, Hiroyuki Kirinuki, Haruto Tanno: "Applying Multi-Objective Genetic Algorithm for Efficient Selection on Program Generation", 28th Asia-Pacific Software Engineering Conference (APSEC2021) [Early Research Achievement] (**Best ERA Paper**), December 2021 ([paper](https://ieeexplore.ieee.org/document/9712020)).
@@ -166,6 +166,7 @@
 1. 丹野 治門: "ゲームプログラムに適したリアルタイム性の高いデバッガの提案と実装", 情報処理学会論文誌:プログラミング, Vol. 1, No. 2, pp. 42-56, 2008. ([paper](https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&amp;active_action=repository_view_main_item_detail&amp;item_id=16436&amp;item_no=1)), ([slide](https://haruto8tanno.github.io/slides/slide(pro68).pdf)).
 
 **国内会議論文：**
+1. 倉林 利行, 丹野 治門: "LLMによるIssue解決のためのプロンプト及びアプローチの調査", 電子情報通信学会技術研究報告,  vol. 123, no. 414, SS2023-72, pp. 139-143, 2024年3月. ([paper](https://ken.ieice.org/ken/paper/202403087cCY/))
 1. 川口 貴子, 倉林 利行, 丹野 治門: "機械学習システムのデータセット自動収集・整形技術", ソフトウェアエンジニアリングシンポジウム2023 論文集 pp. 119-127，2023年8月 [ショート発表論文] ([paper](https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=227289&item_no=1&page_id=13&block_id=8))
 1. 川口 貴子, 倉林 利行, 丹野 治門: "機械学習システムのデータセット自動収集・整形技術", 電子情報通信学会技術研究報告,  vol. 122, no. 432, SS2022-57, pp. 61-66, 2023年3月. ([paper](https://ken.ieice.org/ken/paper/20230314vCSp/))
 1. 渡辺 大登, 柗本 真佑, 肥後 芳樹, 楠本 真二, 倉林 利行, 切貫 弘之, 丹野 治門: "自動プログラム生成におけるプログラム依存を考慮した交叉法の提案と評価", 電子情報通信学会技術研究報告, Vol.122, No.225, pp.35-40, 2022年10月. ([paper](https://www.ieice.org/publications/ken/summary.php?contribution_id=120841&amp;society_cd=ISS&amp;ken_id=IE&amp;year=2022&amp;presen_date=2022-10-25&amp;schedule_id=7768&amp;lang=jp&amp;expandable=3))
@@ -469,7 +470,7 @@ Sure, here are your citations in Markdown format:
 1. 2016年9月 情報処理学会 ソフトウェアエンジニアリングシンポジウム2016，ポスター委員長
 
 **プログラム委員：**
-1. 日本ソフトウェア科学会 ソフトウェア工学の基礎研究会(FOSE), プログラム委員 (2018年～2022年)
+1. 日本ソフトウェア科学会 ソフトウェア工学の基礎研究会(FOSE), プログラム委員 (2018年～2023年)
 1. 情報処理学会 ソフトウェアエンジニアリングシンポジウム(SES)，プログラム委員 (2016年～2018年, 2020年～2023年)
 1. Workshop on Testing: Academia-Industry Collaboration, Practice and Research Techniques (TAICPART), Program Committee Member (2016年～2020年)
 1. International Workshop on Validating Software Tests (VST), Program Committee Member (2016年)
