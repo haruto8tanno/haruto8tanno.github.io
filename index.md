@@ -268,6 +268,7 @@ Sure, here are your citations in Markdown format:
 1. 丹野 治門, 唐澤 雄気, 川ノ上 哲規: "みんなで創るRPG", 2007年度Ⅰ期未踏ソフトウェア創造事業未踏ユース部門（採択金額 3,000,000円）, 2007.  ([天才プログラマ/スーパークリエータ認定](https://www.ipa.go.jp/jinzai/mitou/it/qv6pgp000000jo76-att/000050670.pdf))，([成果概要](https://www.ipa.go.jp/archive/files/000006905.pdf)，[成果詳細](https://www.ipa.go.jp/archive/files/000006906.pdf))
 
 **その他出版物：**
+1. Hiroyuki Kirinuki, Haruto Tanno: "ChatGPT and Human Synergy in Black-Box Testing: A Comparative Analysis", eprint arXiv:2401.13924, January 2024. ([preprint](https://arxiv.org/abs/2401.13924))
 1. Haruto Tanno, Hiroyuki Kirinuki, Takahiro Kawaguchi, Masaki Tajima, Morihide Oinuma, Tatsuya Muramoto: "Test-activity Analysis for Efficient Iterative Testing", NTT Technical Review, February 2022 Vol. 20 No. 4, pp.26-31, February 2021. ([article](https://www.ntt-review.jp/archive/ntttechnical.php?contents=ntr202204fa4.html))
 1. 丹野 治門，切貫 弘之, 川口 敬宏, 但馬　将貴, 生沼　守英, 村本 達也: "繰り返し型の効率的なテストを実現するテスト活動データ分析技術", NTT技術ジャーナル, 2022, Vol 34, No.2, pp.18-21, 2022年2月.([article](https://journal.ntt.co.jp/article/17191))
 1. Haruto Tanno, Hiroyuki Kirinuki, Yu Adachi, Morihide Oinuma, Tatsuya Muramoto: "Test Automation Technology for Analyzing Test-activity Data and Detecting Bugs", NTT Technical Review, February 2021 Vol. 19 No. 2, February 2021. ([article](https://www.ntt-review.jp/archive/ntttechnical.php?contents=ntr202102fa7.html))
