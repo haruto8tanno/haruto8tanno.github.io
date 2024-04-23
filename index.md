@@ -150,7 +150,7 @@
 1. Haruto Tanno, Hideya Iwasaki: "Parallel Skeletons for Variable-length Lists in SkeTo Skeleton Library", 15th European Conference on Parallel Processing (Euro-Par 2009), Lecture Notes in Computer Science 5704, Springer, pp. 666-677, August 2009 ([paper](http://dl.acm.org/citation.cfm?id=1616772.1616845&amp;coll=DL&amp;dl=GUIDE&amp;CFID=51799431&amp;CFTOKEN=52400630)).
 
 **学術雑誌論文：**
-1. 渡辺 大登, まつ本 真佑, 肥後 芳樹, 楠本 真二, 倉林 利行, 切貫 弘之, 丹野 治門, "自動プログラム生成におけるプログラム依存を考慮した交伹の提案", 情報処理学会論文誌, to appear.
+1. 渡辺 大登, まつ本 真佑, 肥後 芳樹, 楠本 真二, 倉林 利行, 切貫 弘之, 丹野 治門, "自動プログラム生成におけるプログラム依存を考慮した交伹の提案", 情報処理学会論文誌, Vol.65, No.3, pp.718--728, 2024年3月.
 1. 倉林 利行, 丹野 治門, 切貫 弘之, 大島 剛志: "プログラム合成技術の動向調査", コンピュータソフトウェア, Vol. 40, No. 2, pp. 2_95-2_128, 2023 ([paper](https://www.jstage.jst.go.jp/article/jssst/40/2/40_2_95/_pdf/-char/ja)).
 1. 渡辺 大登，柗本 真佑，肥後 芳樹，楠本 真二，倉林 利行，切貫 弘之，丹野 治門: "自動プログラム生成に対する多目的遺伝的アルゴリズムの導入　–相補的な個体選択を目的として–", 情報処理学会論文誌, Vol.63, No.10, pp.1564--1573, 2022年10月 ([paper](https://ipsj.ixsq.nii.ac.jp/ej/index.php?active_action=repository_view_main_item_detail&page_id=13&block_id=8&item_id=220343&item_no=1)).
 1. Hiroyuki Kirinuki, Haruto Tanno: "Automating End-to-Endo Web Testing bis Manual Testing", Journal of Information Processing, Vol. 63, No 4, 2022. (**JIP特選論文**).
