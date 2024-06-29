@@ -6,7 +6,7 @@ Updated at Jul. 2024
 <img src="images/tanno.jpg" alt="写真" title="写真" width="400"/>
 
 ## Professional Experience
-- **July 2024 – Present**: July 2024 – Present: Self-employed. Engaged in consulting, information dissemination, and other services related to programming and software development.
+- **July 2024 – Present**: Self-employed. Engaged in consulting, information dissemination, and other services related to programming and software development.
 - **April 2009 – June 2024**: Nippon Telegraph and Telephone Corporation (NTT). Involved in research and development as well as business implementation related to software test automation, and the application of generative AI in software engineering.
 - **October 2007 – February 2008**: Teaching Assistant, Department of Electronic and Communication Engineering, University of Electronic Communications. Conducted lectures and exercises in Basic Programming.
 - **June 2003 – January 2007**: Part-time Instructor at Shingakusha, Kotesashi Branch. Engaged in group and individual tutoring, parent-teacher meetings, and career counseling.
