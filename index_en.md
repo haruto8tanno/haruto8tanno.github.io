@@ -1,16 +1,13 @@
 [For Japanese version, click here](./index.md)
 
-Updated at Nov. 2023
+Updated at Jul. 2024
 # Haruto Tanno
 
 <img src="images/tanno.jpg" alt="写真" title="写真" width="400"/>
 
-## Affiliation
-- Senior Manager, Software Engineering and Operation Technology Project, Software Innovation Center,
-NIPPON TELEGRAPH AND TELEPHONE CORPORATION (NTT) in Japan
-
 ## Professional Experience
-- **April 2009 – Present**: Nippon Telegraph and Telephone Corporation (NTT). Involved in research and development as well as business implementation related to software test automation, and the application of generative AI in software engineering.
+- **July 2024 – Present**: July 2024 – Present: Self-employed. Engaged in consulting, information dissemination, and other services related to programming and software development.
+- **April 2009 – June 2024**: Nippon Telegraph and Telephone Corporation (NTT). Involved in research and development as well as business implementation related to software test automation, and the application of generative AI in software engineering.
 - **October 2007 – February 2008**: Teaching Assistant, Department of Electronic and Communication Engineering, University of Electronic Communications. Conducted lectures and exercises in Basic Programming.
 - **June 2003 – January 2007**: Part-time Instructor at Shingakusha, Kotesashi Branch. Engaged in group and individual tutoring, parent-teacher meetings, and career counseling.
 
@@ -58,7 +55,7 @@ Recently, I have been particularly interested in **how the emergence of generati
 
 ## Publications
 **Conference Papers**
-1. Nao Souma, Ito Waka, Momoka Obara, Takako Kawaguchi, Yuka Akinobu, Toshiyuki Kurabayashi, Haruto Tanno, Kimio Kuramitsu: "Can ChatGPT Correct Code Based on Logical Steps?", 30th Asia-Pacific Software Engineering Conference (APSEC2023) [Early Research Achievements], to appear.
+1. Nao Souma, Ito Waka, Momoka Obara, Takako Kawaguchi, Yuka Akinobu, Toshiyuki Kurabayashi, Haruto Tanno, Kimio Kuramitsu: "Can ChatGPT Correct Code Based on Logical Steps?", 30th Asia-Pacific Software Engineering Conference (APSEC2023) [Early Research Achievements] ([paper](https://conf.researchr.org/details/apsec-2023/apsec-2023-early-research-achievements/18/Can-ChatGPT-Correct-Code-Based-on-Logical-Steps-Short-Paper-)).
 1. Hiroyuki Kirinuki, Masaki Tajima, Haruto Tanno: "LatteArt: A Platform for Recording and Analyzing Exploratory Testing", 16th IEEE International Conference on Software Testing, Verification and Validation (ICST2023), [Testing Tools] ([paper](https://ieeexplore.ieee.org/abstract/document/10132294/references#references)).
 1. Riku Takaichi, Yoshiki Higo, Shinsuke Matsumoto, Shinji Kusumoto, Toshiyuki Kurabayashi, Hiroyuki Kirinuki, Haruto Tanno: "Are NLP Metrics Suitable for Evaluating Generated Code?", Product-Focused Software Process Improvement - 23rd International Conference (PROFES2022) [Poster] ([paper](https://link.springer.com/chapter/10.1007/978-3-031-21388-5_38)).
 1. Hiroto Watanabe, Shinsuke Matsumoto, Yoshiki Higo, Shinji Kusumoto, Toshiyuki Kurabayashi, Hiroyuki Kirinuki, Haruto Tanno: "Applying Multi-Objective Genetic Algorithm for Efficient Selection on Program Generation", 28th Asia-Pacific Software Engineering Conference (APSEC2021) [Early Research Achievement] (**Best ERA Paper**), December 2021 ([paper](https://ieeexplore.ieee.org/document/9712020)).
