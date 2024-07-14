@@ -54,6 +54,7 @@
 - **クラウドプラットフォーム**：AWS、Azure
 - **テスト自動化**：Selenium、Playwright
 - **CI/CD**：GitHub Actions
+- **生成AI**: ChatGPT、Claude3、OpenAI API、GitHub Copilot 
 
 ## マネジメントスキル：
 - **戦略的計画**: 研究開発のビジョンとロードマップを策定し、社内幹部に方向性を明確に説明。

@@ -46,6 +46,7 @@ Recently, I have been particularly interested in **how the emergence of generati
 - **Cloud Platforms**: Familiar with AWS and Azure.
 - **Test Automation**: Proficient in Selenium and Playwright.
 - **CI/CD**: Skilled in using GitHub Actions.
+- **Generative AI**: Experienced with ChatGPT, Claude3, OpenAI API, and GitHub Copilot for code assistance and content generation.
 
 ## Management Skills
 - **Strategic Planning**: Expert in formulating research and development visions and roadmaps, clearly articulating strategic directions to senior management.
