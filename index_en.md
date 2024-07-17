@@ -42,7 +42,7 @@ Recently, I have been particularly interested in **how the emergence of generati
 ## Development Skills
 - **Development Methodologies**: Proficient in Waterfall, Agile (Scrum), and OSS development.
 - **Programming Languages**: Skilled in C#, Java, C/C++, Python, JavaScript/TypeScript.
-- **Frameworks & Tools**: Experienced with ASP.NET (Blazor), Django, Node.js, Roslyn, DirectX, Docker/Docker Compose.
+- **Frameworks & Tools**: Experienced with ASP.NET Core (Blazor, MVC), Django, Node.js, Roslyn, DirectX, Docker/Docker Compose.
 - **Cloud Platforms**: Familiar with AWS and Azure.
 - **Test Automation**: Proficient in Selenium and Playwright.
 - **CI/CD**: Skilled in using GitHub Actions.

@@ -50,7 +50,7 @@
 ## 開発スキル：
 - **開発手法**：ウォーターフォール、アジャイル（スクラム）、OSS開発
 - **プログラミング言語**：C#、Java、C/C++、Python、JavaScript/TypeScript
-- **フレームワーク・ツール**：ASP.NET (Blazor)、Django、Node.js、Roslyn、DirectX、Docker/Docker Compose
+- **フレームワーク・ツール**：ASP.NET Core (Blazor, MVC)、Django、Node.js、Roslyn、DirectX、Docker/Docker Compose
 - **クラウドプラットフォーム**：AWS、Azure
 - **テスト自動化**：Selenium、Playwright
 - **CI/CD**：GitHub Actions
