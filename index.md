@@ -1,6 +1,6 @@
 [For English version, click here](./index_en.md)
 
-最終更新日: 2024年月8月
+最終更新日: 2024年月10月
 
 # 丹野 治門（たんの　はると）
 # Haruto Tanno
@@ -79,6 +79,7 @@
    - LatteArtをOSS公開 ([github](https://github.com/latteart-org/latteart))
 
 ## 自身の受賞：
+1. 2024年 9月 [研究奨励賞](https://ses.sigse.jp/2024/), 情報処理学会 ソフトウェアエンジニアリングシンポジウム2024, "ChatGPTのブラックボックステストへの適用および人間との協働可能性についての調査" (切貫 弘之、丹野 治門)
 1. 2022年 9月 [ソフトウェア工学研究会活動貢献賞](https://www.sigse.jp/award.html), 情報処理学会 ソフトウェア工学研究会
 1. 2022年 4月 [情報処理学会論文誌ジャーナル/JIP特選論文](https://www.ipsj.or.jp/english/organization/aboutipsj/award/ssp_award.html), 情報処理学会, "Automating End-to-End Web Testing bis Manual Testing" (Hiroyuki Kirinuki, Haruto Tanno)
 1. 2022年 3月 センタ長表彰(イノベーション賞), NTT ソフトウェアイノベーションセンタ, "プログラム自動生成の高速化を実現する技術の確立に関する功績" (丹野 治門、他2名)
@@ -164,7 +165,7 @@
 1. 丹野 治門: "ゲームプログラムに適したリアルタイム性の高いデバッガの提案と実装", 情報処理学会論文誌:プログラミング, Vol. 1, No. 2, pp. 42-56, 2008. ([paper](https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&amp;active_action=repository_view_main_item_detail&amp;item_id=16436&amp;item_no=1)), ([slide](https://haruto8tanno.github.io/slides/slide(pro68).pdf)).
 
 **国内会議論文：**
-1. 切貫 弘之, 丹野 治門: "ChatGPTのブラックボックステストへの適用および人間との協働可能性についての調査", ソフトウェアエンジニアリングシンポジウム2024 論文集 2024年9月 [ショート発表論文], to appear.
+1. 切貫 弘之, 丹野 治門: "ChatGPTのブラックボックステストへの適用および人間との協働可能性についての調査", ソフトウェアエンジニアリングシンポジウム2024 論文集 2024年9月 [ショート発表論文] (**研究奨励賞**) ([paper][https://ipsj.ixsq.nii.ac.jp/ej/index.php?active_action=repository_view_main_item_detail&page_id=13&block_id=8&item_id=239256&item_no=1])
 1. 髙野 志歩, 佐藤 美唯, 伊東 和香, 秋信 有花, 川口 貴子, 倉林 利行, 丹野 治門, 倉光 君郎: "逆翻訳によるコード文書生成の実行ベース評価法", 2024年度人工知能学会全国大会(第38回), 2024年5月. ([paper](https://www.jstage.jst.go.jp/article/pjsai/JSAI2024/0/JSAI2024_4Xin230/_article/-char/ja))
 1. 倉林 利行, 丹野 治門: "LLMによるIssue解決のためのプロンプト及びアプローチの調査", 電子情報通信学会技術研究報告,  vol. 123, no. 414, SS2023-72, pp. 139-143, 2024年3月. ([paper](https://ken.ieice.org/ken/paper/202403087cCY/))
 1. 川口 貴子, 倉林 利行, 丹野 治門: "機械学習システムのデータセット自動収集・整形技術", ソフトウェアエンジニアリングシンポジウム2023 論文集 pp. 119-127，2023年8月 [ショート発表論文] ([paper](https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=227289&item_no=1&page_id=13&block_id=8))
