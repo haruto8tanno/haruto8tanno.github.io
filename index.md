@@ -1,6 +1,6 @@
 [For English version, click here](./index_en.md)
 
-最終更新日: 2024年月11月
+最終更新日: 2024年月12月
 
 # 丹野 治門（たんの　はると）
 # Haruto Tanno
@@ -151,7 +151,7 @@
 1. Haruto Tanno, Hideya Iwasaki: "Parallel Skeletons for Variable-length Lists in SkeTo Skeleton Library", 15th European Conference on Parallel Processing (Euro-Par 2009), Lecture Notes in Computer Science 5704, Springer, pp. 666-677, August 2009 ([paper](http://dl.acm.org/citation.cfm?id=1616772.1616845&amp;coll=DL&amp;dl=GUIDE&amp;CFID=51799431&amp;CFTOKEN=52400630)).
 
 **学術雑誌論文：**
-1. 渡辺 大登, まつ本 真佑, 肥後 芳樹, 楠本 真二, 倉林 利行, 切貫 弘之, 丹野 治門, "自動プログラム生成におけるプログラム依存を考慮した交伹の提案", 情報処理学会論文誌, Vol.65, No.3, pp.718--728, 2024年3月.
+1. 渡辺 大登, まつ本 真佑, 肥後 芳樹, 楠本 真二, 倉林 利行, 切貫 弘之, 丹野 治門, "自動プログラム生成におけるプログラム依存を考慮した交叉の提案", 情報処理学会論文誌, Vol.65, No.3, pp.718--728, 2024年3月 ([paper](https://ipsj.ixsq.nii.ac.jp/ej/index.php?active_action=repository_view_main_item_detail&page_id=13&block_id=8&item_id=233368&item_no=1)).
 1. 倉林 利行, 丹野 治門, 切貫 弘之, 大島 剛志: "プログラム合成技術の動向調査", コンピュータソフトウェア, Vol. 40, No. 2, pp. 2_95-2_128, 2023 ([paper](https://www.jstage.jst.go.jp/article/jssst/40/2/40_2_95/_pdf/-char/ja)).
 1. 渡辺 大登，柗本 真佑，肥後 芳樹，楠本 真二，倉林 利行，切貫 弘之，丹野 治門: "自動プログラム生成に対する多目的遺伝的アルゴリズムの導入　–相補的な個体選択を目的として–", 情報処理学会論文誌, Vol.63, No.10, pp.1564--1573, 2022年10月 ([paper](https://ipsj.ixsq.nii.ac.jp/ej/index.php?active_action=repository_view_main_item_detail&page_id=13&block_id=8&item_id=220343&item_no=1)).
 1. Hiroyuki Kirinuki, Haruto Tanno: "Automating End-to-Endo Web Testing bis Manual Testing", Journal of Information Processing, Vol. 63, No 4, 2022. (**JIP特選論文**).
@@ -167,7 +167,7 @@
 1. 丹野 治門: "ゲームプログラムに適したリアルタイム性の高いデバッガの提案と実装", 情報処理学会論文誌:プログラミング, Vol. 1, No. 2, pp. 42-56, 2008. ([paper](https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&amp;active_action=repository_view_main_item_detail&amp;item_id=16436&amp;item_no=1)), ([slide](https://haruto8tanno.github.io/slides/slide(pro68).pdf)).
 
 **国内会議論文：**
-1. 切貫 弘之, 丹野 治門: "ChatGPTのブラックボックステストへの適用および人間との協働可能性についての調査", ソフトウェアエンジニアリングシンポジウム2024 論文集 2024年9月 [ショート発表論文] (**研究奨励賞**) ([paper][https://ipsj.ixsq.nii.ac.jp/ej/index.php?active_action=repository_view_main_item_detail&page_id=13&block_id=8&item_id=239256&item_no=1])
+1. 切貫 弘之, 丹野 治門: "ChatGPTのブラックボックステストへの適用および人間との協働可能性についての調査", ソフトウェアエンジニアリングシンポジウム2024 論文集 2024年9月 [ショート発表論文] (**研究奨励賞**) ([paper](https://ipsj.ixsq.nii.ac.jp/ej/index.php?active_action=repository_view_main_item_detail&page_id=13&block_id=8&item_id=239256&item_no=1))
 1. 髙野 志歩, 佐藤 美唯, 伊東 和香, 秋信 有花, 川口 貴子, 倉林 利行, 丹野 治門, 倉光 君郎: "逆翻訳によるコード文書生成の実行ベース評価法", 2024年度人工知能学会全国大会(第38回), 2024年5月. ([paper](https://www.jstage.jst.go.jp/article/pjsai/JSAI2024/0/JSAI2024_4Xin230/_article/-char/ja))
 1. 倉林 利行, 丹野 治門: "LLMによるIssue解決のためのプロンプト及びアプローチの調査", 電子情報通信学会技術研究報告,  vol. 123, no. 414, SS2023-72, pp. 139-143, 2024年3月. ([paper](https://ken.ieice.org/ken/paper/202403087cCY/))
 1. 川口 貴子, 倉林 利行, 丹野 治門: "機械学習システムのデータセット自動収集・整形技術", ソフトウェアエンジニアリングシンポジウム2023 論文集 pp. 119-127，2023年8月 [ショート発表論文] ([paper](https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=227289&item_no=1&page_id=13&block_id=8))
@@ -286,13 +286,17 @@ Sure, here are your citations in Markdown format:
 1. 丹野 治門: "テストが全自動で行われる世界を目指して", NTT技術ジャーナル, 2013, Vol 25, No.10, pp.28, 2013年10月. ([article](http://www.ntt.co.jp/journal/1310/files/jn201310028.pdf))
 1. 丹野 治門: "未踏ユースから育ったタレントたち【PART 1 若い未踏クリエータからのメッセージ】:19.自分の欲しいソフトウェアを創る", 情報処理学会 会誌「情報処理」, Vol. 52, No. 12, pp. 1502, 2011年11月. ([article](https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=78373&item_no=1&page_id=13&block_id=8))
 
-
 ## 特許：
+
+**日本:**
 1. 	公開	プログラム生成装置、プログラム生成方法及びプログラム	JP2021104657	JP2023003531A		"倉林 利行
 丹野 治門
 切貫 弘之
 但馬 将貴
 まつ本 真佑"
+1. 登録  テスト支援装置、テスト支援方法及びプログラム　JP2023517014		JP7597211  "安達 悠
+丹野 治門
+切貫 弘之"
 1. 	登録	テストデータ生成装置、テストデータ生成方法、及びプログラム	JP2021558103		JP7268759B	"安達 悠
 丹野 治門
 吉村 優
@@ -460,12 +464,38 @@ Sure, here are your citations in Markdown format:
 張  暁晶
 星野  隆"
 
+**米国:**
+1. B2 Input value setting assisting apparatus, input value setting assisting method and program US17/601892  US12153942B2 "Haruto Tanno, Hiroyuki Kirinuki, Toshiyuki Kurabayashi, Yu Yoshimura, Yu Adachi"
+1. B2 Test apparatus, test method and program US17/609291  US12141054B2 "Yu Adachi, Haruto Tanno, Toshiyuki Kurabayashi, Yu Yoshimura, Hiroyuki Kirinuki"
+1. A1 Program generation apparatus, program generation method and program US18/558200 US20240248685A1  "Toshiyuki Kurabayashi, Yu Yoshimura, Haruto Tanno"
+1. A1 Test support apparatus, test support method and program US18/557274 US20240211385A1  "Yu Adachi, Haruto Tanno, Hiroyuki Kirinuki"
+1. A1 Test support apparatus, test support method, and program US18/555629 US20240202109A1  "Hiroyuki Kirinuki, Haruto Tanno, Yu Adachi"
+1. B2 Operation pattern generation apparatus, operation pattern generation method and program US17/774895  US12001324B2 "Yu Yoshimura, Yu Adachi, Haruto Tanno, Hiroyuki Kirinuki, Toshiyuki Kurabayashi"
+1. B2 Test data generation apparatus, test data generation method and program US17/777959  US12001325B2 "Yu Adachi, Haruto Tanno, Yu Yoshimura, Hiroyuki Kirinuki, Toshiyuki Kurabayashi"
+1. B2 Test apparatus, test method and program US17/610636  US11960390B2 "Hiroyuki Kirinuki, Haruto Tanno, Toshiyuki Kurabayashi"
+1. B2 Screen transition consolidation apparatus, screen transition consolidation method and program US17/615066  US11934808B2 "Toshiyuki Kurabayashi, Haruto Tanno, Yu Adachi, Hiroyuki Kirinuki, Yu Yoshimura"
+1. B2 Test information extraction apparatus, test information extraction method and program US17/772095  US11886328B2 "Takuya Iwatsuka, Haruto Tanno, Toshiyuki Kurabayashi"
+1. B2 Resembling transition identifying apparatus, resembling transition identifying method and program US17/602280 US11783116B2 "Yu Yoshimura, Haruto Tanno, Yu Adachi, Hiroyuki Kirinuki, Toshiyuki Kurabayashi"
+1. A1 Operation pattern generation apparatus, operation pattern generation method and program US17/774895 US20220405196A1 "Yu Yoshimura, Yu Adachi, Haruto Tanno, Hiroyuki Kirinuki, Toshiyuki Kurabayashi"
+1. A1 Test information extraction apparatus, test information extraction method and program US17/772095 US20220374343A1 "Takuya Iwatsuka, Haruto Tanno, Toshiyuki Kurabayashi"
+1. A1 Test data generation apparatus, test data generation method and program US17/777959 US20220350730A1 "Yu Adachi, Haruto Tanno, Yu Yoshimura, Hiroyuki Kirinuki, Toshiyuki Kurabayashi"
+1. B2 Screen discrimination apparatus, screen discrimination method and program US17/057041 US11481546B2 "Toshiyuki Kurabayashi, Haruto Tanno, Muneyoshi Iyama, Hiroyuki Kirinuki"
+1. A1 Test script generation apparatus, test script generation method and program US17/615057 US20220229767A1 "Toshiyuki Kurabayashi, Haruto Tanno, Yu Adachi, Hiroyuki Kirinuki, Yu Yoshimura"
+1. A1 Screen transition consolidation apparatus, screen transition consolidation method and program US17/615066 US20220222051A1 "Toshiyuki Kurabayashi, Haruto Tanno, Yu Adachi, Hiroyuki Kirinuki, Yu Yoshimura"
+1. A1 Analysis apparatus, analysis method and program US17/601885 US20220214963A1 "Yu Adachi, Haruto Tanno, Hiroyuki Kirinuki, Yu Yoshimura, Toshiyuki Kurabayashi"
+1. A1 Input value setting assisting apparatus, input value setting assisting method and program US17/601892 US20220206828A1 "Haruto Tanno, Hiroyuki Kirinuki, Toshiyuki Kurabayashi, Yu Yoshimura, Yu Adachi"
+1. A1 Test apparatus, test method and program US17/609291 US20220206935A1 "Yu Adachi, Haruto Tanno, Toshiyuki Kurabayashi, Yu Yoshimura, Hiroyuki Kirinuki"
+1. A1 Test apparatus, test method and program US17/610636 US20220206934A1 "Hiroyuki Kirinuki, Haruto Tanno, Toshiyuki Kurabayashi"
+1. A1 Resembling transition identifying apparatus, resembling transition identifying method and program US17/602280 US20220164523A1 "Yu Yoshimura, Haruto Tanno, Yu Adachi, Hiroyuki Kirinuki, Toshiyuki Kurabayashi"
+1. A1 Test data generation apparatus, test data generation method and program US17/288352 US20210382810A1 "Hiroyuki Kirinuki, Toshiyuki Kurabayashi, Haruto Tanno"
+1. A1 Screen discrimination apparatus, screen discrimination method and program US17/057041 US20210117616A1 "Toshiyuki Kurabayashi, Haruto Tanno, Muneyoshi Iyama, Hiroyuki Kirinuki"
+
 ## 社会貢献：
 **運営・編集委員：**
-1. 情報処理学会 ソフトウェア工学研究会 運営委員会，運営委員(2021年度～2023年度)
+1. 情報処理学会 ソフトウェア工学研究会 運営委員会，運営委員(2021年度～2024年度)
 1. 情報処理学会 ソフトウェア工学研究会 運営委員会，幹事 (2017年度～2020年度)
 1. 情報処理学会 論文誌「ソフトウェア工学特集」 編集委員会， 編集委員 (2017年度～2023年度)
-1. 電子情報通信学会 ソサイエティ論文誌編集委員会　常任査読委員 (2018年-現在)
+1. 電子情報通信学会 ソサイエティ論文誌編集委員会　常任査読委員 (2018年～現在)
 1. 2022年 9月情報処理学会 ソフトウェアエンジニアリングシンポジウム2022 ポスター委員長
 1. 2020年9月 情報処理学会 ソフトウェアエンジニアリングシンポジウム2020 会計委員長
 1. 2019年9月 情報処理学会 ソフトウェアエンジニアリングシンポジウム2019 会計委員長
@@ -474,7 +504,7 @@ Sure, here are your citations in Markdown format:
 
 **プログラム委員：**
 1. 日本ソフトウェア科学会 ソフトウェア工学の基礎研究会(FOSE), プログラム委員 (2018年～2023年)
-1. 情報処理学会 ソフトウェアエンジニアリングシンポジウム(SES)，プログラム委員 (2016年～2018年, 2020年～2023年)
+1. 情報処理学会 ソフトウェアエンジニアリングシンポジウム(SES)，プログラム委員 (2016年～2018年, 2020年～2024年)
 1. Workshop on Testing: Academia-Industry Collaboration, Practice and Research Techniques (TAICPART), Program Committee Member (2016年～2020年)
 1. International Workshop on Validating Software Tests (VST), Program Committee Member (2016年)
 
@@ -500,9 +530,8 @@ Sure, here are your citations in Markdown format:
 1. Software Testing, Verification and Reliability, Reviewer 
 1. International Journal of Software Engineering and Knowledge Engineering, Reviewer
 1. 25th Asia-Pacific Software Engineering Conference (APSEC2018) SEIP, External Reviewer
-1. IEICE TRANSACTIONS on Information and Systems, Reviewer 
-1. 日本ソフトウェア科学会 学会誌コンピュータソフトウェア，査読者
 1. 情報処理学会 論文誌ジャーナル, 査読者
+1. 日本ソフトウェア科学会 学会誌コンピュータソフトウェア，査読者
 1. 電気情報通信学会 論文誌D，査読者
 
 ## 招待講演：
@@ -511,7 +540,7 @@ Sure, here are your citations in Markdown format:
 1. "テスト自動化の基本的な考え方とNTTにおける研究開発の紹介", 第25回 SPIトワイライトフォーラム, 2019年3月26日 ([概要](http://www.jaspic.org/events/twilight/2019-03/), [発表資料](http://www.jaspic.org/wordpress/wp-content/uploads/JASPIC_SPI-TwilightForum_20190326.pdf))
 1. "ソフトウェアの研究開発は楽しく", Application Developer Festival 2015 (株式会社リクルートホールディングス)([参考記事](https://oldrelease.recruit-holdings.co.jp/news_data/release/2015/0302_15663))にて講演, 2015年3月28日
 1. "Test Automation Technology to Reduce Development Costs and Maintain Software Quality", Berkeley Programming Systems (Chaperone) Retreat, 9th May, 2014
-1. "ソフトウェア開発の楽しさ", 名古屋工業大学の講義「情報工学概論」(情報処理系学生165名が受講), 2008年12月17日
+1. "ソフトウェア開発の楽しさ", 名古屋工業大学の講義「情報工学概論」(情報処理系学生165名が受講), 2008年12月17日([参考：IPA平成２０年度業務実績(p118)](https://www.ipa.go.jp/about/cdk3vs0000002z18-att/000001034.pdf))
 1. "みんなで創るＲＰＧ -kameTL-", 電気通信大学　地域・産学官連携推進機構　特別フォーラム「次世代の天才プログラマー　from電通大」, 2008年11月22日 ([報告](http://www.sangaku.uec.ac.jp/report/report.html))
 
 ## 学位論文：

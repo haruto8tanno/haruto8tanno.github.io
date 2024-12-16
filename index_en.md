@@ -1,6 +1,6 @@
 [For Japanese version, click here](./index.md)
 
-Updated at Nov. 2024
+Updated at Dec. 2024
 # Haruto Tanno
 
 <img src="images/tanno.jpg" alt="写真" title="写真" width="400"/>
@@ -84,6 +84,8 @@ Recently, I have been particularly interested in **how the emergence of generati
 1. Haruto Tanno, Hideya Iwasaki: "Parallel Skeletons for Variable-length Lists in SkeTo Skeleton Library", 15th European Conference on Parallel Processing (Euro-Par 2009), Lecture Notes in Computer Science 5704, Springer, pp. 666-677, August 2009 ([paper](http://dl.acm.org/citation.cfm?id=1616772.1616845&amp;coll=DL&amp;dl=GUIDE&amp;CFID=51799431&amp;CFTOKEN=52400630)).
 
 **Academic Journals**
+1. Hiroto Watanabe, Masayu Matsumoto, Yoshihiko Higo, Shinji Kusumoto, Hiroyuki Kirinuki, Toshiyuki Kurabayashi, Haruto Tanno: "Program Slice-based Crossoverfor Automated Program Genration", (in Japanese), Journal of Information Processing, Vol. 65, No. 3, pp. 718-728, 2024. ([paper](https://ipsj.ixsq.nii.ac.jp/ej/index.php?active_action=repository_view_main_item_detail&page_id=13&block_id=8&item_id=233368&item_no=1)).
+
 1. Toshiyuki Kurabayashi, Haruto Tanno, Hiroyuki Kirinuki, Tsuyoshi Oshima: "プログラム合成技術の動向" (Trends in Program Synthesis Technology - unofficial English translation), (in Japanese), Computer Software, Vol. 40, No. 2, pp. 2_95-2_128, 2023 ([paper](https://www.jstage.jst.go.jp/article/jssst/40/2/40_2_95/_pdf/-char/ja)).
 2. Hiroto Watanabe, Masayu Togemoto, Yoshihiko Higo, Shinji Kusumoto, Toshiyuki Kurabayashi, Hiroyuki Kirinuki, Haruto Tanno: "Applying Multi-objective Genetic Algorithm to Improve Automated Program Generation by Selecting Complementary Variants", (in Japanese), Journal of the Information Processing Society of Japan, Vol.63, No.10, pp.1564--1573, October 2022 ([paper](https://ipsj.ixsq.nii.ac.jp/ej/index.php?active_action=repository_view_main_item_detail&amp;page_id=13&amp;block_id=8&amp;item_id=220343&amp;item_no=1)).
 3. Hiroyuki Kirinuki, Haruto Tanno: "Automating End-to-End Web Testing bis Manual Testing", Journal of Information Processing, Vol. 63, No 4, 2022. (**JIP Specally Selected Paper**).
@@ -109,10 +111,37 @@ Hiroyuki Kirinuki, Haruto Tanno, Katsuyuki Natsukawa: "COLOR: Correct Locator Re
 
 
 **Others**
+1. Hiroyuki Kirinuki, Haruto Tanno: "ChatGPT and Human Synergy in Black-Box Testing: A Comparative Analysis", eprint arXiv:2401.13924, January 2024. ([preprint](https://arxiv.org/abs/2401.13924))
 1. Haruto Tanno, Hiroyuki Kirinuki, Takahiro Kawaguchi, Masaki Tajima, Morihide Oinuma, Tatsuya Muramoto: "Test-activity Analysis for Efficient Iterative Testing", NTT Technical Review, February 2022 Vol. 20 No. 4, pp.26-31, February 2021. ([article](https://www.ntt-review.jp/archive/ntttechnical.php?contents=ntr202204fa4.html))
 1. Haruto Tanno, Hiroyuki Kirinuki, Yu Adachi, Morihide Oinuma, Tatsuya Muramoto: "Test Automation Technology for Analyzing Test-activity Data and Detecting Bugs", NTT Technical Review, February 2021 Vol. 19 No. 2, February 2021. ([article](https://www.ntt-review.jp/archive/ntttechnical.php?contents=ntr202102fa7.html))
 1. Haruto Tanno, Morihide Oinuma, Katsuyuki Natsukawa: "Test Automation Technology to Promote Early and Frequent Releases of Software at Low Cost", NTT Technical Review, January 2017 Vol. 15 No. 2, February 2017. ([article](https://www.ntt-review.jp/archive/ntttechnical.php?contents=ntr201702fa3.html))
 1. Haruto Tanno, Xiaojing Zhang, Keiichi Tabata, Morihide Oinuma, Kazuhito Suguri: "Test Automation Technology to Reduce Development Costs and Maintain Software Quality", NTT Technical Review, January 2014 Vol. 12 No. 1, January 2014. ([article](https://www.ntt-review.jp/archive/ntttechnical.php?contents=ntr201401fa3.html))
+
+## Patents
+1. B2 Input value setting assisting apparatus, input value setting assisting method and program US17/601892  US12153942B2 "Haruto Tanno, Hiroyuki Kirinuki, Toshiyuki Kurabayashi, Yu Yoshimura, Yu Adachi"
+1. B2 Test apparatus, test method and program US17/609291  US12141054B2 "Yu Adachi, Haruto Tanno, Toshiyuki Kurabayashi, Yu Yoshimura, Hiroyuki Kirinuki"
+1. A1 Program generation apparatus, program generation method and program US18/558200 US20240248685A1  "Toshiyuki Kurabayashi, Yu Yoshimura, Haruto Tanno"
+1. A1 Test support apparatus, test support method and program US18/557274 US20240211385A1  "Yu Adachi, Haruto Tanno, Hiroyuki Kirinuki"
+1. A1 Test support apparatus, test support method, and program US18/555629 US20240202109A1  "Hiroyuki Kirinuki, Haruto Tanno, Yu Adachi"
+1. B2 Operation pattern generation apparatus, operation pattern generation method and program US17/774895  US12001324B2 "Yu Yoshimura, Yu Adachi, Haruto Tanno, Hiroyuki Kirinuki, Toshiyuki Kurabayashi"
+1. B2 Test data generation apparatus, test data generation method and program US17/777959  US12001325B2 "Yu Adachi, Haruto Tanno, Yu Yoshimura, Hiroyuki Kirinuki, Toshiyuki Kurabayashi"
+1. B2 Test apparatus, test method and program US17/610636  US11960390B2 "Hiroyuki Kirinuki, Haruto Tanno, Toshiyuki Kurabayashi"
+1. B2 Screen transition consolidation apparatus, screen transition consolidation method and program US17/615066  US11934808B2 "Toshiyuki Kurabayashi, Haruto Tanno, Yu Adachi, Hiroyuki Kirinuki, Yu Yoshimura"
+1. B2 Test information extraction apparatus, test information extraction method and program US17/772095  US11886328B2 "Takuya Iwatsuka, Haruto Tanno, Toshiyuki Kurabayashi"
+1. B2 Resembling transition identifying apparatus, resembling transition identifying method and program US17/602280 US11783116B2 "Yu Yoshimura, Haruto Tanno, Yu Adachi, Hiroyuki Kirinuki, Toshiyuki Kurabayashi"
+1. A1 Operation pattern generation apparatus, operation pattern generation method and program US17/774895 US20220405196A1 "Yu Yoshimura, Yu Adachi, Haruto Tanno, Hiroyuki Kirinuki, Toshiyuki Kurabayashi"
+1. A1 Test information extraction apparatus, test information extraction method and program US17/772095 US20220374343A1 "Takuya Iwatsuka, Haruto Tanno, Toshiyuki Kurabayashi"
+1. A1 Test data generation apparatus, test data generation method and program US17/777959 US20220350730A1 "Yu Adachi, Haruto Tanno, Yu Yoshimura, Hiroyuki Kirinuki, Toshiyuki Kurabayashi"
+1. B2 Screen discrimination apparatus, screen discrimination method and program US17/057041 US11481546B2 "Toshiyuki Kurabayashi, Haruto Tanno, Muneyoshi Iyama, Hiroyuki Kirinuki"
+1. A1 Test script generation apparatus, test script generation method and program US17/615057 US20220229767A1 "Toshiyuki Kurabayashi, Haruto Tanno, Yu Adachi, Hiroyuki Kirinuki, Yu Yoshimura"
+1. A1 Screen transition consolidation apparatus, screen transition consolidation method and program US17/615066 US20220222051A1 "Toshiyuki Kurabayashi, Haruto Tanno, Yu Adachi, Hiroyuki Kirinuki, Yu Yoshimura"
+1. A1 Analysis apparatus, analysis method and program US17/601885 US20220214963A1 "Yu Adachi, Haruto Tanno, Hiroyuki Kirinuki, Yu Yoshimura, Toshiyuki Kurabayashi"
+1. A1 Input value setting assisting apparatus, input value setting assisting method and program US17/601892 US20220206828A1 "Haruto Tanno, Hiroyuki Kirinuki, Toshiyuki Kurabayashi, Yu Yoshimura, Yu Adachi"
+1. A1 Test apparatus, test method and program US17/609291 US20220206935A1 "Yu Adachi, Haruto Tanno, Toshiyuki Kurabayashi, Yu Yoshimura, Hiroyuki Kirinuki"
+1. A1 Test apparatus, test method and program US17/610636 US20220206934A1 "Hiroyuki Kirinuki, Haruto Tanno, Toshiyuki Kurabayashi"
+1. A1 Resembling transition identifying apparatus, resembling transition identifying method and program US17/602280 US20220164523A1 "Yu Yoshimura, Haruto Tanno, Yu Adachi, Hiroyuki Kirinuki, Toshiyuki Kurabayashi"
+1. A1 Test data generation apparatus, test data generation method and program US17/288352 US20210382810A1 "Hiroyuki Kirinuki, Toshiyuki Kurabayashi, Haruto Tanno"
+1. A1 Screen discrimination apparatus, screen discrimination method and program US17/057041 US20210117616A1 "Toshiyuki Kurabayashi, Haruto Tanno, Muneyoshi Iyama, Hiroyuki Kirinuki"
 
 ## Social Activities
 1. 25th Asia-Pacific Software Engineering Conference (APSEC2018), Registration Co-Chairs
