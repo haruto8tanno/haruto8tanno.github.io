@@ -171,6 +171,7 @@
 
 **国内会議論文：**
 1. 切貫 弘之, 丹野 治門: "ChatGPTのブラックボックステストへの適用および人間との協働可能性についての調査", ソフトウェアエンジニアリングシンポジウム2024 論文集 2024年9月 [ショート発表論文] (**研究奨励賞**) ([paper](https://ipsj.ixsq.nii.ac.jp/ej/index.php?active_action=repository_view_main_item_detail&page_id=13&block_id=8&item_id=239256&item_no=1))
+1. 秋信 有花, 切貫 弘之, 丹野 治門: "大規模言語モデルを活用したデータに基づくプロダクト改善案の自動推薦技術の検討", 2024年度人工知能学会全国大会(第38回), 2024年5月. ([paper](https://www.jstage.jst.go.jp/article/pjsai/JSAI2024/0/JSAI2024_1F5GS1003/_article/-char/ja))
 1. 髙野 志歩, 佐藤 美唯, 伊東 和香, 秋信 有花, 川口 貴子, 倉林 利行, 丹野 治門, 倉光 君郎: "逆翻訳によるコード文書生成の実行ベース評価法", 2024年度人工知能学会全国大会(第38回), 2024年5月. ([paper](https://www.jstage.jst.go.jp/article/pjsai/JSAI2024/0/JSAI2024_4Xin230/_article/-char/ja))
 1. 倉林 利行, 丹野 治門: "LLMによるIssue解決のためのプロンプト及びアプローチの調査", 電子情報通信学会技術研究報告,  vol. 123, no. 414, SS2023-72, pp. 139-143, 2024年3月. ([paper](https://ken.ieice.org/ken/paper/202403087cCY/))
 1. 川口 貴子, 倉林 利行, 丹野 治門: "機械学習システムのデータセット自動収集・整形技術", ソフトウェアエンジニアリングシンポジウム2023 論文集 pp. 119-127，2023年8月 [ショート発表論文] ([paper](https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=227289&item_no=1&page_id=13&block_id=8))

@@ -17,6 +17,11 @@ C# ASP.NET Core Blazorで作ったアプリを題材としたリアルタイム�
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cuXAgVI8VKw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## 参考
+### 未踏事業との関係
+以下の未踏ユース成果における「ゲーム向けドメイン特化言語向けリアルタイムデバッガ」が研究開発の出発点となっています。
+
+- 丹野 治門, 唐澤 雄気, 川ノ上 哲規: "みんなで創るRPG", 2007年度Ⅰ期未踏ソフトウェア創造事業未踏ユース部門, 2007.  ([スーパークリエータ認定](https://www.ipa.go.jp/jinzai/mitou/it/qv6pgp000000jo76-att/000050670.pdf))，([成果概要](https://www.ipa.go.jp/archive/files/000006905.pdf)，[成果詳細](https://www.ipa.go.jp/archive/files/000006906.pdf))
+
 ### 関連論文
 展示技術の関連論文です。
 
