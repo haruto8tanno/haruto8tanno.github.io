@@ -14,7 +14,7 @@
 
 ### 紹介動画
 C# ASP.NET Core Blazorで作ったアプリを題材としたリアルタイムデバッガのデモ動画です。
-<iframe width="560" height="315" src="https://www.youtube.com/embed/CdhqOaVOqb4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cuXAgVI8VKw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## 参考
 ### 関連論文

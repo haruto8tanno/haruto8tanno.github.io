@@ -2,6 +2,9 @@
 
 ![ロゴ](images/logo.png)
 
+## お知らせ
+- 2025年3月9日：[未踏会議2025](https://www.ipa.go.jp/jinzai/mitou/mitoukaigi/)で、丹野が[C#リアルタイムデバッガの展示](contents/20250309-mitoukaigi/index.md)を行います。
+
 ## 研究所について
 
 プログラミング創造研究所は、ソフトウェア開発の未来を探求する個人研究開発機関です。\
