@@ -3,7 +3,7 @@
 ![ロゴ](images/logo.png)
 
 ## お知らせ
-- 2025年3月9日：[未踏会議2025](https://www.ipa.go.jp/jinzai/mitou/mitoukaigi/)で、丹野が[C#リアルタイムデバッガの展示](contents/20250309-mitoukaigi/index.md)を行います。
+- 2025年3月9日：[未踏会議2025](https://www.ipa.go.jp/jinzai/mitou/mitoukaigi/)で、丹野が[C#リアルタイムデバッガの展示](contents/20250309-mitoukaigi/index.md)を行いました。
 
 ## 研究所について
 

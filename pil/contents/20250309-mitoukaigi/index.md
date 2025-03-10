@@ -1,6 +1,6 @@
 # 未踏会議2025展示
 
-[未踏会議2025](https://www.ipa.go.jp/jinzai/mitou/mitoukaigi/)（2025年3月9日(日)開催）で、以下の内容を展示する予定です。
+[未踏会議2025](https://www.ipa.go.jp/jinzai/mitou/mitoukaigi/)（2025年3月9日(日)開催）で、以下の内容を展示しました。
 
 ## 展示内容
 

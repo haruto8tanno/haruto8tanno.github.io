@@ -231,6 +231,7 @@ Sure, here are your citations in Markdown format:
 1. 丹野 治門: "ゲームシステム記述言語kameTLにおけるリアルタイムデバッグ機構", 情報処理学会第49回プログラミングシンポジウム報告集, pp.17-24, 2008. 2008年1月 (**山内奨励賞**) ([paper](https://ipsj.ixsq.nii.ac.jp/ej/index.php?active_action=repository_view_main_item_detail&item_id=91516&item_no=1&page_id=13&block_id=8))
 
 **ポスター/デモ/口頭発表：**
+1. 丹野 治門, "C#アプリ向けリアルタイムデバッガ ～動作中のプログラムの中身を覗いて挙動を理解できる技術～", [未踏会議2025](https://www.ipa.go.jp/jinzai/mitou/mitoukaigi/),2025年3月, ([展示内容](https://haruto8tanno.github.io/pil/contents/20250309-mitoukaigi/))
 1. 切貫弘之，丹野治門: "ChatGPTによるブラックボックステストおよび人間との協調可能性について", 第30回 ソフトウェア工学の基礎ワークショップ（ポスター発表）, 2023年11月 (**ポスター・デモ賞**)
 1. 秋信 有花, 切貫 弘之, 丹野 治門: "高速なプロダクト進化のための改善案自動推薦手法の検討", NLP若手の会(YANS) 第18回シンポジウム (ポスターセッション), 2023年8月
 1. 秋信 有花，倉林 利行，丹野 治門: "大規模事前学習済みモデルを用いた特定ドメインにおける自動コード生成の試み", 第29回 ソフトウェア工学の基礎ワークショップ（ポスター発表）, 2022年11月
