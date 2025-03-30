@@ -35,5 +35,5 @@ C# ASP.NET Core Blazorで作ったアプリを題材としたリアルタイム�
 <iframe width="560" height="315" src="https://www.youtube.com/embed/iI-WG13qx8c" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### 当日の様子
-<img src="images/picture1.png" alt="写真" title="写真"/>
+<img src="images/picture1.jpg" alt="写真" title="写真"/>
 
