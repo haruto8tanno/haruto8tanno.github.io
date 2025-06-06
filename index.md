@@ -1,6 +1,6 @@
 [For English version, click here](./index_en.md)
 
-最終更新日: 2025年3月
+最終更新日: 2025年6月
 
 # 丹野 治門（たんの　はると）
 # Haruto Tanno
@@ -55,11 +55,13 @@
 ## 開発スキル：
 - **開発手法**：ウォーターフォール、アジャイル（スクラム）、OSS開発
 - **プログラミング言語**：C#、Java、C/C++、Python、JavaScript/TypeScript
-- **フレームワーク・ツール**：ASP.NET Core (Blazor, MVC)、Django、Node.js、Roslyn、DirectX、Docker/Docker Compose
-- **クラウドプラットフォーム**：AWS、Azure
-- **テスト自動化**：Selenium、Playwright
-- **CI/CD**：GitHub Actions
-- **生成AI**: ChatGPT、Claude3、OpenAI API、GitHub Copilot 
+- **フレームワーク・ツール**：ASP\.NET Core Blazor、Avalonia UI(MVVM + ReactiveUI)、WinForms、Django、Flask、Node.js、Roslyn、DirectX、Docker
+- **データベース**：SQL Server、SQLite、PostgreSQL
+- **クラウドプラットフォーム**：Azure、AWS
+- **テスト自動化**：xUnit、Moq、Selenium、Playwright、Avalonia UI Headless Testing
+- **バージョン管理**：Git、GitHub
+- **CI/CD**：GitHub Actions、Releases
+- **生成AI**：ChatGPT、Claude、GitHub Copilot
 
 ## マネジメントスキル：
 - **戦略的計画**: 研究開発のビジョンとロードマップを策定し、社内幹部に方向性を明確に説明。
@@ -509,7 +511,7 @@ Sure, here are your citations in Markdown format:
 
 **プログラム委員：**
 1. 日本ソフトウェア科学会 ソフトウェア工学の基礎研究会(FOSE), プログラム委員 (2018年～2023年)
-1. 情報処理学会 ソフトウェアエンジニアリングシンポジウム(SES)，プログラム委員 (2016年～2018年, 2020年～2024年)
+1. 情報処理学会 ソフトウェアエンジニアリングシンポジウム(SES)，プログラム委員 (2016年～2018年, 2020年～2025年)
 1. Workshop on Testing: Academia-Industry Collaboration, Practice and Research Techniques (TAICPART), Program Committee Member (2016年～2020年)
 1. International Workshop on Validating Software Tests (VST), Program Committee Member (2016年)
 
