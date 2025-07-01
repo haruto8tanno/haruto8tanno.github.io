@@ -1,6 +1,6 @@
 [For English version, click here](./index_en.md)
 
-最終更新日: 2025年6月
+最終更新日: 2025年7月
 
 # 丹野 治門（たんの　はると）
 # Haruto Tanno
@@ -22,7 +22,7 @@
 ## 職歴：
 - **2003年6月～2007年1月**: 進学舎 小手指校, 非常勤講師。集団指導/個別指導、保護者会、進路相談。
 - **2007年10月～2008年2月**: 電気通信大学 電気通信学部, ティーチングアシスタント。基礎プログラミングおよび演習。
-- **2009年 4月～2024年6月**: 日本電信電話株式会社。ソフトウェアテスト自動化・生成AIのソフトウェア工学への応用等に関する研究開発及び事業導入。
+- **2009年 4月～2024年6月**: 日本電信電話株式会社（現、NTT株式会社）。ソフトウェアテスト自動化・生成AIのソフトウェア工学への応用等に関する研究開発及び事業導入。
 - **2024年11月**: 明治大学理工学部 特別講義2, 外部講師。
   「ソフトウェアテスト自動化」の講義を担当。
 - **2024年 7月～現在**: プログラミング創造研究所 代表（個人事業主）。プログラミング・ソフトウェア開発に関するコンサルティング・情報発信。
@@ -160,7 +160,7 @@
 1. 渡辺 大登, まつ本 真佑, 肥後 芳樹, 楠本 真二, 倉林 利行, 切貫 弘之, 丹野 治門, "自動プログラム生成におけるプログラム依存を考慮した交叉の提案", 情報処理学会論文誌, Vol.65, No.3, pp.718--728, 2024年3月 ([paper](https://ipsj.ixsq.nii.ac.jp/ej/index.php?active_action=repository_view_main_item_detail&page_id=13&block_id=8&item_id=233368&item_no=1)).
 1. 倉林 利行, 丹野 治門, 切貫 弘之, 大島 剛志: "プログラム合成技術の動向調査", コンピュータソフトウェア, Vol. 40, No. 2, pp. 2_95-2_128, 2023 (**解説論文賞**) ([paper](https://www.jstage.jst.go.jp/article/jssst/40/2/40_2_95/_pdf/-char/ja)).
 1. 渡辺 大登，柗本 真佑，肥後 芳樹，楠本 真二，倉林 利行，切貫 弘之，丹野 治門: "自動プログラム生成に対する多目的遺伝的アルゴリズムの導入　–相補的な個体選択を目的として–", 情報処理学会論文誌, Vol.63, No.10, pp.1564--1573, 2022年10月 ([paper](https://ipsj.ixsq.nii.ac.jp/ej/index.php?active_action=repository_view_main_item_detail&page_id=13&block_id=8&item_id=220343&item_no=1)).
-1. Hiroyuki Kirinuki, Haruto Tanno: "Automating End-to-End Web Testing via Manual Testing", Journal of Information Processing, Vol. 63, No 4, 2022 (**JIP特選論文**).
+1. Hiroyuki Kirinuki, Haruto Tanno: "Automating End-to-End Web Testing via Manual Testing", Journal of Information Processing, Vol. 63, No 4, 2022 (**JIP特選論文**) ([paper](https://www.jstage.jst.go.jp/article/ipsjjip/30/0/30_294/_pdf/-char/en)).
 1. Haruto Tanno, Yu Adachi, Yu Yoshimura, Katsuyuki Natsukawa, Hideya Iwasaki: "Region-based Detection of Essential Differences in Image-based Visual Regression Testing", Journal of Information Processing, Vol. 28, pp. 268-278, 2020. ([paper](https://www.jstage.jst.go.jp/article/ipsjjip/28/0/28_268/_article/-char/en)).
 1. 肥後 芳樹, まつ本 真佑, 内藤 圭吾, 谷門 照斗, 楠本 真二, 切貫 弘之, 倉林 利行, 丹野 治門: "設定ファイルを考慮したFault Localizationの拡張", 情報処理学会論文誌:ソフトウェア工学特集, Vol. 61, No. 4, pp. 884-894, 2020. ([paper](https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&amp;active_action=repository_view_main_item_detail&amp;item_id=204333&amp;item_no=1)).
 1. Hiroyuki Kirinuki, Haruto Tanno, Katsuyuki Natsukawa: "Recommending Correct Locator for Broken Test Scripts using Various Clues in Web Application", Computer Software, Vol. 36, No. 4, pp. 4_3-4_17, 2019. ([paper](https://www.jstage.jst.go.jp/article/jssst/36/4/36_4_3/_article/-char/ja)).

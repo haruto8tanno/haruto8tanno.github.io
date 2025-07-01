@@ -1,6 +1,6 @@
 [For Japanese version, click here](./index.md)
 
-Updated at Jan. 2025
+Updated at July. 2025
 # Haruto Tanno
 
 <img src="images/tanno.jpg" alt="写真" title="写真" width="400"/>
@@ -8,7 +8,7 @@ Updated at Jan. 2025
 ## Professional Experience
 - **July 2024 – Present**: Programming Innovation Lab (Self-employed). Engaged in consulting, information dissemination, and other services related to programming and software development.
 - **November 2024**: Guest Lecturer, School of Science and Technology, Meiji University. Delivered a special lecture on "Software Test Automation".
-- **April 2009 – June 2024**: Nippon Telegraph and Telephone Corporation (NTT). Involved in research and development as well as business implementation related to software test automation, and the application of generative AI in software engineering.
+- **April 2009 – June 2024**: Nippon Telegraph and Telephone Corporation (now NTT, Inc.). Involved in research and development as well as business implementation related to software test automation, and the application of generative AI in software engineering.
 - **October 2007 – February 2008**: Teaching Assistant, Department of Electronic and Communication Engineering, University of Electronic Communications. Conducted lectures and exercises in Basic Programming.
 - **June 2003 – January 2007**: Part-time Instructor at Shingakusha, Kotesashi Branch. Engaged in group and individual tutoring, parent-teacher meetings, and career counseling.
 
