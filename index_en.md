@@ -5,6 +5,14 @@ Updated at July. 2025
 
 <img src="images/tanno.jpg" alt="写真" title="写真" width="400"/>
 
+## Summary
+
+I am a researcher and engineer with a proven track record in software test automation and generative AI applications, driving projects from research and development to real-world implementation and business deployment.
+
+During my tenure at NTT, I led numerous collaborative projects involving group companies, external partners, and academic institutions, resulting in successful service launches and business expansion.
+
+Currently, as an independent professional, I focus on programming mentorship and independent R&D (including debugger development and generative AI applications), contributing to the advancement of software development and talent cultivation.
+
 ## Professional Experience
 - **July 2024 – Present**: Programming Innovation Lab (Self-employed). Engaged in consulting, information dissemination, and other services related to programming and software development.
 - **November 2024**: Guest Lecturer, School of Science and Technology, Meiji University. Delivered a special lecture on "Software Test Automation".
