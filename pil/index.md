@@ -42,7 +42,7 @@
 <img src="images/tanno.jpg" alt="写真" title="写真" width="250"/>
 
 ### 丹野 治門 (Haruto Tanno)
-- 博士（工学）、Microsoft MVP (.NET) 
+- 博士（工学）、Microsoft MVP（Developer Technologies／.NET）
 - NTT研究所で技術者・マネージャ（15年以上）、学生時代は学習塾で非常勤講師（約4年間）、大学外部講師
 - 論文発表：100本以上（トップ国際会議での発表含む）、特許出願：国内50本・米国20本以上、国内外での受賞：20件以上
 - 専門分野

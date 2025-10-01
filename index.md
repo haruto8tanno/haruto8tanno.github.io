@@ -3,9 +3,9 @@
 最終更新日: 2025年10月
 
 # 丹野 治門（たんの　はると）
-博士（工学）| Microsoft MVP (.NET) | プログラミング創造研究所 代表（個人事業主）
+博士（工学）| Microsoft MVP（Developer Technologies／.NET）| プログラミング創造研究所 代表（個人事業主）
 # Haruto Tanno
-Ph.D. in Engineering | Microsoft MVP (.NET) | Programming Innovation Lab (Self-employed)
+Ph.D. in Engineering | Microsoft MVP (Developer Technologies, .NET) | Programming Innovation Lab (Self-employed)
 
 <img src="images/tanno.jpg" alt="写真" title="写真" width="400"/>
 
