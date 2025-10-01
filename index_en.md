@@ -64,6 +64,10 @@ Recently, I have been particularly interested in **how the emergence of generati
 - **Inter-company Collaboration**: Proficient in advancing collaborations with group companies and other enterprises, effectively managing research and development projects across multiple organizations.
 - **Industry-Academia Collaboration**: Skilled in establishing close cooperative relationships with universities and research institutions, promoting innovation through joint research, technology exchange, and talent development.
 
+## Awards
+- **Microsoft MVP for Developer Technologies (.NET)**, Microsoft, Oct. 2025.
+- **Best ERA Paper Award**, 28th Asia-Pacific Software Engineering Conference (APSEC 2021), Dec. 2021. 
+
 ## Publications
 **Conference Papers**
 1. Nao Souma, Ito Waka, Momoka Obara, Takako Kawaguchi, Yuka Akinobu, Toshiyuki Kurabayashi, Haruto Tanno, Kimio Kuramitsu: "Can ChatGPT Correct Code Based on Logical Steps?", 30th Asia-Pacific Software Engineering Conference (APSEC2023) [Early Research Achievements] ([paper](https://conf.researchr.org/details/apsec-2023/apsec-2023-early-research-achievements/18/Can-ChatGPT-Correct-Code-Based-on-Logical-Steps-Short-Paper-)).

@@ -1,6 +1,7 @@
 # Programming Innovation Lab
 
 ## News
+- October 1, 2025: Tanno was awarded **Microsoft MVP for Developer Technologies (.NET)**.
 - March 9, 2025: Tanno presented [C# Real-time Debugger Exhibition](contents/20250309-mitoukaigi/index.md) (in Japanese) at [Mitou Conference 2025](https://www.ipa.go.jp/jinzai/mitou/mitoukaigi/).
 
 ## About the Institute

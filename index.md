@@ -1,6 +1,6 @@
 [For English version, click here](./index_en.md)
 
-最終更新日: 2025年9月
+最終更新日: 2025年10月
 
 # 丹野 治門（たんの　はると）
 博士（工学）｜プログラミング創造研究所 代表（個人事業主）
@@ -95,6 +95,7 @@ NTT在籍時はグループ・他社・産学連携による協働プロジェ�
    - LatteArtをOSS公開 ([github](https://github.com/latteart-org/latteart))
 
 ## 自身の受賞：
+1. 2025年 10月 Microsoft MVP for Developer Technologies（.NET）, Microsoft
 1. 2025年 9月 解説論文賞, 日本ソフトウェア科学会, "プログラム合成技術の動向調査" (倉林 利行, 丹野 治門, 切貫 弘之, 大島 剛志)
 1. 2024年 9月 [研究奨励賞](https://ses.sigse.jp/2024/), 情報処理学会 ソフトウェアエンジニアリングシンポジウム2024, "ChatGPTのブラックボックステストへの適用および人間との協働可能性についての調査" (切貫 弘之、丹野 治門)
 1. 2022年 9月 [ソフトウェア工学研究会活動貢献賞](https://www.sigse.jp/award.html), 情報処理学会 ソフトウェア工学研究会
