@@ -2,7 +2,7 @@
 
 Updated at Sep. 2025
 # Haruto Tanno
-Ph.D. in Engineering | Programming Innovation Lab (Self-employed)
+Ph.D. in Engineering | Microsoft MVP (.NET) | Programming Innovation Lab (Self-employed)
 
 <img src="images/tanno.jpg" alt="写真" title="写真" width="400"/>
 

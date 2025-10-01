@@ -40,7 +40,7 @@ We provide small-group individual mentoring to support developer growth.
 <img src="images/tanno.jpg" alt="Photo" title="Photo" width="250"/>
 
 ### Haruto Tanno
-- Ph.D. in Engineering
+- Ph.D. in Engineering, Microsoft MVP (.NET) 
 - Engineer and Manager at NTT Research Labs (15+ years), Part-time instructor at cram schools during student years (approximately 4 years), University external lecturer
 - Publications: 100+ papers (including presentations at top international conferences), Patent applications: 50+ domestic, 20+ US patents, Awards: 20+ domestic and international
 - Areas of Expertise
